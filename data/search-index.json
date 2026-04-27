@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Home",
+        "href": "/index.html",
+        "description": "Home page",
+        "keywords": [
+            "home",
+            "index"
+        ]
+    },
+    {
+        "title": "Machine God of the Eternal Void Guide",
+        "href": "/pages/guild/mgod-guide.html",
+        "description": "Machine God (MGOD) Guild Team Guide | 32b+ Dmg",
+        "keywords": [
+            "machine god",
+            "mgod",
+            "machine god of the eternal void",
+            "mgev",
+            "mgotev",
+            "guild",
+            "guide"
+        ]
+    },
+    {
+        "title": "Living Abyss Guide",
+        "href": "/pages/guild/la-guide.html",
+        "description": "Living Abyss (LA) Guild Team Guide | 42b+ Dmg",
+        "keywords": [
+            "living abyss",
+            "la",
+            "guild",
+            "guide",
+            "the living abyss",
+            "licorice living abyss",
+            "lla",
+            "tla"
+        ]
+    },
+    {
+        "title": "Red Velvet Dragon",
+        "href": "/pages/guild/rvd-guide.html",
+        "description": "Red Velvet Dragon (RVD) Guild Team Guide | 33b+ Dmg",
+        "keywords": [
+            "red velvet dragon",
+            "rvd",
+            "guild",
+            "guide"
+        ]
+    },
+    {
+        "title": "Avatar of Destiny",
+        "href": "/pages/guild/aod-guide.html",
+        "description": "Avatar of Destiny (AOD) Guild Team Guide | 10.4b+ (Rip King)",
+        "keywords": [
+            "avatar of destiny",
+            "aod",
+            "guild",
+            "guide"
+        ]
+    }
+]

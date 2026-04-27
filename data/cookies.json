@@ -1,0 +1,869 @@
+[
+    {
+        "cookie-name": "Menthol",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/38/Cookie_menthol_card.png/revision/latest?cb=20250827014220",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e4/Menthol_illustration.png/revision/latest?cb=20250916200811",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5a/Menthol_gacha_animation.gif/revision/latest?cb=20250827072638",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1c/Menthol_head.png/revision/latest?cb=20250827014228"
+    },
+    {
+        "cookie-name": "Seltzer",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/05/Cookie_seltzer_card.png/revision/latest?cb=20250827013905",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4f/Seltzer_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250916200652",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/57/Seltzer_gacha_animation.gif/revision/latest?cb=20250827072356",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cf/Seltzer_head.png/revision/latest?cb=20250827013916"
+    },
+    {
+        "cookie-name": "Frilled Jellyfish",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/49/Cookie_frilled_jellyfish_card.png/revision/latest?cb=20230908072333",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/49/Frilled_jellyfish_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230909192812",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/96/Frilled_jellyfish_gacha_animation.gif/revision/latest?cb=20230908075517",
+        "mc-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/92/Frilled_jellyfish_mc_lv3.png/revision/latest?cb=20241106174758",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Frilled_jellyfish_head.png/revision/latest?cb=20230908072307"
+    },
+    {
+        "cookie-name": "Sea Fairy",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9a/Cookie_sea_fairy_card.png/revision/latest?cb=20230805070633",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f9/Sea_fairy_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211030184800",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Seafairycookiegachaanimation.gif/revision/latest?cb=20250120202157",
+        "mc-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/33/Sea_fairy_cj_lv3.png/revision/latest?cb=20230809083837",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b3/Sea_fairy_head.png/revision/latest?cb=20231228102557"
+    },
+    {
+        "cookie-name": "Cream Ferret",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/39/Cookie_cream_ferret_card.png/revision/latest?cb=20240717134446",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Cream_ferret_illustration.png/revision/latest?cb=20240721225711",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Cream_ferret_gacha_animation.gif/revision/latest?cb=20240722042631",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ed/Cream_ferret_head.png/revision/latest?cb=20240717170922"
+    },
+    {
+        "cookie-name": "Wind Archer",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/86/Cookie_wind_archer_card.png/revision/latest?cb=20240903231506",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/87/Wind_archer_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240903231510",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9a/Cookie0070_portrait.gif/revision/latest?cb=20240906030534",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/21/Wind_archer_head.png/revision/latest?cb=20240903231519",
+        "mc-src": "/assets/imgs/wa-cj.png"
+    },
+    {
+        "cookie-name": "Blueberry Pie",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c1/Cookie_blueberry_pie_card.png/revision/latest?cb=20230214012124",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d9/Blueberry_pie_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230216060556",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8e/Blueberry_pie_cookie_gacha_animation.gif/revision/latest?cb=20230214025841",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3c/Blueberry_pie_head.png/revision/latest?cb=20230214012122",
+        "mc-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1f/Blueberry_pie_mc_lv3.png/revision/latest?cb=20240508164354"
+    },
+    {
+        "cookie-name": "Cream Puff",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/47/Cookie_cream_puff_card.png/revision/latest?cb=20210303120205",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Cream_puff_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240118025148",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Creampuffcookiegachaanimation.gif/revision/latest?cb=20210708124700",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b3/Cream_puff_head.png/revision/latest?cb=20211121073711",
+        "mc-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1a/Cream_puff_mc_lv3.png/revision/latest?cb=20230214023252"
+    },
+    {
+        "cookie-name": "Marshmallow Bunny",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/40/Cookie_marshmallow_bunny_card.png/revision/latest?cb=20250702011652",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d2/Marshmallow_bunny_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250718161730",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8f/Marshmallow_bunny_gacha_animation.gif/revision/latest?cb=20250702012630",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9d/Marshmallow_bunny_head.png/revision/latest?cb=20250702011347"
+    },
+    {
+        "cookie-name": "Pom-pom Dough",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1c/Cookie_pom-pom_dough_card.png/revision/latest?cb=20260214095500",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/39/Pom-pom_Dough_Illustration.png/revision/latest/scale-to-width-down/1000?cb=20260303142828",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/67/Pom-pom_dough_head.png/revision/latest?cb=20260211022225"
+    },
+    {
+        "cookie-name": "Shadow Milk",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9f/Cookie_shadow_milk_card.png/revision/latest?cb=20250115020722",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d4/Shadow_milk_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250117144004",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Shadow_milk_head.png/revision/latest?cb=20250115020824"
+    },
+    {
+        "cookie-name": "Prune Juice",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cd/Cookie_prune_juice_card.png/revision/latest?cb=20230330140103",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/02/Prune_juice_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230404002945",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Prune_juice_head.png/revision/latest?cb=20230330140120"
+    },
+    {
+        "cookie-name": "Black Sapphire",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/df/Cookie_black_sapphire_card.png/revision/latest?cb=20250212020217",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/ba/Black_sapphire_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250213083312",
+        "gif-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0a/Black_sapphire_gacha_animation.gif/revision/latest?cb=20250212093418",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/72/Black_sapphire_head.png/revision/latest?cb=20250212013857"
+    },
+    {
+        "cookie-name": "Candy Apple",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f7/Cookie_candy_apple_card.png/revision/latest?cb=20250115022433",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6a/Candy_apple_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250117144025",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/12/Candy_apple_head.png/revision/latest?cb=20250115021032"
+    },
+    {
+        "cookie-name": "Mint Choco",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/40/Cookie_mint_choco_card.png/revision/latest?cb=20210303120208",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/67/Mint_choco_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190528",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/73/Mint_choco_head.png/revision/latest?cb=20241214022918"
+    },
+    {
+        "cookie-name": "Pudding à la Mode",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8c/Cookie_pudding_a_la_mode_card.png/revision/latest?cb=20241204021703",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1d/Pudding_a_la_mode_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241217044724",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a8/Pudding_a_la_mode_head.png/revision/latest?cb=20241204021706"
+    },
+    {
+        "cookie-name": "Star Coral",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3b/Cookie_star_coral_card.png/revision/latest?cb=20240814151058",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/39/Star_coral_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240814150129",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d3/Star_coral_head.png/revision/latest?cb=20240814200313"
+    },
+    {
+        "cookie-name": "Crème Brûlée",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4a/Cookie_cr%C3%A8me_br%C3%BBl%C3%A9e_card.png/revision/latest?cb=20231213144631",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c5/Creme_brulee_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231230153035",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5c/Creme_brulee_head.png/revision/latest?cb=20231213144751"
+    },
+    {
+        "cookie-name": "Mystic Flour",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/66/Cookie_mystic_flour_card.png/revision/latest?cb=20240524214058",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0d/Mystic_flour_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241113165741",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d2/Mystic_flour_head.png/revision/latest?cb=20240522010625"
+    },
+    {
+        "cookie-name": "Burning Spice",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/84/Cookie_burning_spice_card.png/revision/latest?cb=20241002012920",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Burning_spice_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241113170232",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7d/Burning_spice_head.png/revision/latest?cb=20241002051420"
+    },
+    {
+        "cookie-name": "Eternal Sugar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Cookie_eternal_sugar_card.png/revision/latest?cb=20250507013152",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/99/Eternal_sugar_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250507010134",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/70/Eternal_sugar_head.png/revision/latest?cb=20250507011805"
+    },
+    {
+        "cookie-name": "Silent Salt",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/79/Cookie_silent_salt_card.png/revision/latest?cb=20251009022745",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f7/Silent_salt_illustration.png/revision/latest/scale-to-width-down/1000?cb=20251012003000",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ad/Silent_salt_head.png/revision/latest?cb=20250924020906"
+    },
+    {
+        "cookie-name": "Awakened Dark Cacao",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Cookie_awakened_dark_cacao_card.png/revision/latest?cb=20240628163059",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ac/Awakened_dark_cacao_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240628113830",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f8/Awakened_dark_cacao_head.png/revision/latest?cb=20240628161713"
+    },
+    {
+        "cookie-name": "Awakened Golden Cheese",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e2/Cookie_awakened_golden_cheese_card.png/revision/latest?cb=20241029231951",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/66/Awakened_golden_cheese_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241104184818",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/db/Awakened_golden_cheese_head.png/revision/latest?cb=20241030013221"
+    },
+    {
+        "cookie-name": "Awakened Pure Vanilla",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Cookie_awakened_pure_vanilla_card.png/revision/latest?cb=20250212020639",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Awakened_pure_vanilla_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250213083420",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/ff/Awakened_pure_vanilla_head.png/revision/latest?cb=20250212014140"
+    },
+    {
+        "cookie-name": "Awakened Hollyberry",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ce/Cookie_awakened_hollyberry_card.png/revision/latest?cb=20250604014914",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cf/Awakened_hollyberry_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250605073451",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ae/Awakened_hollyberry_head.png/revision/latest?cb=20250604015015"
+    },
+    {
+        "cookie-name": "Awakened White Lily",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/08/Cookie_awakened_white_lily_card.png/revision/latest?cb=20251022020939",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/08/Awakened_white_lily_illustration.png/revision/latest/scale-to-width-down/1000?cb=20251115004950",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4b/Awakened_white_lily_head.png/revision/latest?cb=20251022020855"
+    },
+    {
+        "cookie-name": "Dark Enchantress",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a7/Cookie_dark_enchantress_card.png/revision/latest?cb=20260114010739",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f5/Dark_enchantress_illustration.png/revision/latest/scale-to-width-down/1000?cb=20260114022059",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ac/Dark_enchantress_head.png/revision/latest?cb=20260114010741"
+    },
+    {
+        "cookie-name": "Millennial Tree",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c4/Cookie_millennial_tree_card.png/revision/latest?cb=20251217012103",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/27/Millennial_tree_illustration.png/revision/latest?cb=20260226020440",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ce/Millennial_tree_head.png/revision/latest?cb=20251217025130"
+    },
+    {
+        "cookie-name": "Frost Queen",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d0/Cookie_frost_queen_card.png/revision/latest?cb=20230805065950",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Frost_queen_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240708221229",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d7/Frost_queen_head.png/revision/latest?cb=20211118215413"
+    },
+    {
+        "cookie-name": "Black Pearl",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cc/Cookie_black_pearl_card.png/revision/latest?cb=20220906100755",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fb/Black_pearl_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240708224950",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Black_pearl_head.png/revision/latest?cb=20231229102810"
+    },
+    {
+        "cookie-name": "Fire Spirit",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/ba/Cookie_fire_spirit_card.png/revision/latest?cb=20250409010854",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Fire_spirit_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250409012119",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/11/Fire_spirit_head.png/revision/latest?cb=20250409010756"
+    },
+    {
+        "cookie-name": "Stormbringer",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/73/Cookie_stormbringer_card.png/revision/latest?cb=20240424211542",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b9/Stormbringer_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240427012739",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Stormbringer_head.png/revision/latest?cb=20240424214957"
+    },
+    {
+        "cookie-name": "Moonlight",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/07/Cookie_moonlight_card.png/revision/latest?cb=20230119041429",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2d/Moonlight_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230123182242",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Moonlight_head.png/revision/latest?cb=20240104060510"
+    },
+    {
+        "cookie-name": "Sugar Swan",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3f/Cookie_sugar_swan_card.png/revision/latest?cb=20260311025310",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/59/Sugar_swan_illustration.png/revision/latest/scale-to-width-down/1000?cb=20260311025311",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/40/Sugar_swan_head.png/revision/latest?cb=20260316024716"
+    },
+    {
+        "cookie-name": "Pitaya Dragon",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/02/Cookie_pitaya_dragon_card.png/revision/latest?cb=20231004025947",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/60/Pitaya_dragon_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230519211430",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f9/Pitaya_dragon_head.png/revision/latest?cb=20230528083041"
+    },
+    {
+        "cookie-name": "Doughael",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e6/Cookie_doughael_card.png/revision/latest?cb=20250827014259",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Doughael_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250916195746",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e4/Doughael_head.png/revision/latest?cb=20250827014307"
+    },
+    {
+        "cookie-name": "Camellia",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/91/Cookie_camellia_card.png/revision/latest?cb=20241118182527",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/87/Camellia_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241120160954",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0d/Camellia_head.png/revision/latest?cb=20241118212113"
+    },
+    {
+        "cookie-name": "Elder Faerie",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bc/Cookie_elder_faerie_card.png/revision/latest?cb=20240229012712",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ae/Elder_faerie_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240306170826",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ce/Elder_faerie_head.png/revision/latest?cb=20240229012437"
+    },
+    {
+        "cookie-name": "Crimson Coral",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/52/Cookie_crimson_coral_card.png/revision/latest?cb=20230830102425",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bc/Cookie_elder_faerie_card.png/revision/latest?cb=20240229012712",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/03/Crimson_coral_head.png/revision/latest?cb=20230830102352"
+    },
+    {
+        "cookie-name": "Shining Glitter",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1b/Cookie_shining_glitter_card.png/revision/latest?cb=20230705100107",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cf/Shining_glitter_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230725043341",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a5/Shining_glitter_head.png/revision/latest?cb=20230705100058"
+    },
+    {
+        "cookie-name": "Capsaicin",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Cookie_capsaicin_card.png/revision/latest?cb=20230528083039",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a0/Capsaicin_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230404003734",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/21/Capsaicin_head.png/revision/latest?cb=20230330135735"
+    },
+    {
+        "cookie-name": "Stardust",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ef/Cookie_stardust_card.png/revision/latest?cb=20230309101207",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a8/Stardust_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230313213329",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/15/Stardust_head.png/revision/latest?cb=20230309131650"
+    },
+    {
+        "cookie-name": "Sherbet",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Cookie_sherbet_card.png/revision/latest?cb=20221130100717",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/79/Sherbet_illustration.png/revision/latest/scale-to-width-down/1000?cb=20221130125046",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fc/Sherbet_head.png/revision/latest?cb=20221130100719"
+    },
+    {
+        "cookie-name": "Oyster",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/ba/Cookie_oyster_card.png/revision/latest?cb=20220614101307",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/be/Oyster_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220617173805",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/48/Oyster_head.png/revision/latest?cb=20220614101305"
+    },
+    {
+        "cookie-name": "Clotted Cream",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4c/Cookie_clotted_cream_card.png/revision/latest?cb=20251009024354",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/35/Clotted_cream_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220510060440",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/99/Clotted_cream_head.png/revision/latest?cb=20220503101701"
+    },
+    {
+        "cookie-name": "Venom Dough",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/91/Cookie_venom_dough_card.png/revision/latest?cb=20260214074741",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/67/Venom_dough_illustration.webp/revision/latest/scale-to-width-down/1000?cb=20260303231525",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/83/Venom_dough_head.png/revision/latest?cb=20260211022226"
+    },
+    {
+        "cookie-name": "Snow Sugar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/ff/Cookie_snow_sugar_card.png/revision/latest?cb=20210303120211",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/41/Snow_sugar_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190532",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Snow_sugar_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Vampire",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c9/Cookie_vampire_card.png/revision/latest?cb=20210303120212",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e2/Vampire_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190518",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/78/Vampire_head.png/revision/latest?cb=20230909202114"
+    },
+    {
+        "cookie-name": "Tiger Lily",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9b/Cookie_tiger_lily_card.png/revision/latest?cb=20210303120212",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d4/Tiger_lily_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211031065956",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Tiger_lily_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Werewolf",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/70/Cookie_werewolf_card.png/revision/latest?cb=20210303120204",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/95/Werewolf_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190524",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/69/Werewolf_head.png/revision/latest?cb=20241214022556"
+    },
+    {
+        "cookie-name": "Herb",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1f/Cookie_herb_card.png/revision/latest?cb=20210303120207",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/85/Herb_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211030171728",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Herb_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Dark Choco",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4d/Cookie_dark_choco_card.png/revision/latest?cb=20210303120202",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/29/Dark_choco_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211105092817",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9d/Dark_choco_head.png/revision/latest?cb=20241214023433"
+    },
+    {
+        "cookie-name": "Sparkling",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fa/Cookie_sparkling_card.png/revision/latest?cb=20210303120212",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fa/Sparkling_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190529",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b5/Sparkling_head.png/revision/latest?cb=20231228145201"
+    },
+    {
+        "cookie-name": "Chili Pepper",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Cookie_chili_pepper_card.png/revision/latest?cb=20210303120204",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/84/Chili_pepper_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211105092837",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/65/Chili_pepper_head.png/revision/latest?cb=20230909202055"
+    },
+    {
+        "cookie-name": "Pomegranate",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8e/Cookie_pomegranate_card.png/revision/latest?cb=20210303120210",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7c/Pomegranate_illustration.png/revision/latest?cb=20231123190527",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/27/Pomegranate_head.png/revision/latest?cb=20240724032144"
+    },
+    {
+        "cookie-name": "Purple Yam",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ce/Cookie_purple_yam_card.png/revision/latest?cb=20210303120211",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2b/Purple_yam_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211105090147",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Purple_yam_head.png/revision/latest?cb=20230909202052"
+    },
+    {
+        "cookie-name": "Milk",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c5/Cookie_milk_card.png/revision/latest?cb=20210303120203",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b7/Milk_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211105084637",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8d/Milk_head.png/revision/latest?cb=20231228144938"
+    },
+    {
+        "cookie-name": "Poison Mushroom",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f5/Cookie_poison_mushroom_card.png/revision/latest?cb=20210303120210",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/07/Poison_mushroom_illustration.png/revision/latest?cb=20231123190520",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/33/Poison_mushroom_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Licorice",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/47/Cookie_licorice_card.png/revision/latest?cb=20210303120207",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a7/Licorice_illustration.png/revision/latest?cb=20211105094109",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/86/Licorice_head.png/revision/latest?cb=20240717215442"
+    },
+    {
+        "cookie-name": "Madeleine",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6f/Cookie_madeleine_card.png/revision/latest?cb=20210303120208",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4b/Madeleine_illustration.png/revision/latest?cb=20211105084335",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2f/Madeleine_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Espresso",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/42/Cookie_espresso_card.png/revision/latest?cb=20210303120206",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a6/Espresso_illustration.png/revision/latest?cb=20211105095012",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/74/Espresso_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Rye",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d5/Cookie_rye_card.png/revision/latest?cb=20210303120211",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/73/Rye_illustration.png/revision/latest?cb=20231123190522",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/36/Rye_head.png/revision/latest?cb=20231228144939"
+    },
+    {
+        "cookie-name": "Kumiho",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Cookie_kumiho_card.png/revision/latest?cb=20210303120204",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/19/Kumiho_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211030172159",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1f/Kumiho_head.png/revision/latest?cb=20241214021733"
+    },
+    {
+        "cookie-name": "Latte",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/20/Cookie_latte_card.png/revision/latest?cb=20210303120207",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/38/Latte_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211101002806",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c2/Latte_head.png/revision/latest?cb=20211121072226"
+    },
+    {
+        "cookie-name": "Almond",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Cookie_almond_card.png/revision/latest?cb=20210303120158",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a2/Almond_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231123190525",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4a/Almond_head.png/revision/latest?cb=20241213235055"
+    },
+    {
+        "cookie-name": "Black Raisin",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4a/Cookie_black_raisin_card.png/revision/latest?cb=20210408190210",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3c/Black_raisin_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211101003257",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f0/Black_raisin_head.png/revision/latest?cb=20211121012238"
+    },
+    {
+        "cookie-name": "Strawberry Crepe",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/90/Cookie_strawberry_crepe_card.png/revision/latest?cb=20210422234147",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ae/Strawberry_crepe_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211105095031",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/50/Strawberry_crepe_head.png/revision/latest?cb=20241214025925"
+    },
+    {
+        "cookie-name": "Fig",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/86/Cookie_fig_card.png/revision/latest?cb=20230807202828",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/ab/Fig_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211108003537",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f3/Fig_head.png/revision/latest?cb=20211121011625"
+    },
+    {
+        "cookie-name": "Pastry",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a9/Cookie_pastry_card.png/revision/latest?cb=20230807200511",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/df/Pastry_illustration.png/revision/latest?cb=20221019163943",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3f/Pastry_head.png/revision/latest?cb=20211121014703"
+    },
+    {
+        "cookie-name": "Red Velvet",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/62/Cookie_red_velvet_card.png/revision/latest?cb=20230807200652",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/58/Red_velvet_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211102082851",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/15/Red_velvet_head.png/revision/latest?cb=20211121014204"
+    },
+    {
+        "cookie-name": "Mango",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Cookie_mango_card.png/revision/latest?cb=20230807201853",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ce/Mango_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211030184136",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Mango_head.png/revision/latest?cb=20211121015019"
+    },
+    {
+        "cookie-name": "Lilac",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ed/Cookie_lilac_card.png/revision/latest?cb=20230805071655",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7f/Lilacgacha_nf.png/revision/latest/scale-to-width-down/1000?cb=20211108004429",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Lilac_head.png/revision/latest?cb=20231228115346"
+    },
+    {
+        "cookie-name": "Squid Ink",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bd/Cookie_squid_ink_card.png/revision/latest?cb=20230805071256",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ca/Squid_ink_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211108010654",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/00/Squid_ink_head.png/revision/latest?cb=20241214023812"
+    },
+    {
+        "cookie-name": "Sorbet Shark",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4a/Cookie_sorbet_shark_card.png/revision/latest?cb=20230805071308",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f7/Sorbet_shark_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211107235039",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/89/Sorbet_shark_head.png/revision/latest?cb=20241214024001"
+    },
+    {
+        "cookie-name": "Parfait",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/67/Cookie_parfait_card.png/revision/latest?cb=20230807203950",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3a/Parfait_illustration.png/revision/latest?cb=20211121032232",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/58/Parfait_head.png/revision/latest?cb=20241214030426"
+    },
+    {
+        "cookie-name": "Raspberry",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e0/Cookie_raspberry_card.png/revision/latest?cb=20230807204530",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/27/Raspberry_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211108010639",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/08/Raspberry_head.png/revision/latest?cb=20231228103747"
+    },
+    {
+        "cookie-name": "Moon Rabbit",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ec/Cookie_moon_rabbit_card.png/revision/latest?cb=20230807204941",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f5/Moon_rabbit_illustration.png/revision/latest?cb=20220328181733",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f5/Moon_rabbit_head.png/revision/latest?cb=20231228104735"
+    },
+    {
+        "cookie-name": "Mala Sauce",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4d/Cookie_mala_sauce_card.png/revision/latest?cb=20230807205503",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Mala_sauce_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211108003507",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/49/Mala_sauce_head.png/revision/latest?cb=20231228113531"
+    },
+    {
+        "cookie-name": "Twizzly Gummy",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3a/Cookie_twizzly_gummy_card.png/revision/latest?cb=20230807210004",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Twizzly_gummy_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211102153802",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/83/Twizzly_gummy_head.png/revision/latest?cb=20231228103452"
+    },
+    {
+        "cookie-name": "Pumpkin Pie",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/af/Cookie_pumpkin_pie_card.png/revision/latest?cb=20230807210446",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d3/Pumpkin_pie_illustration.png/revision/latest?cb=20211102023040",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/03/Pumpkin_pie_head.png/revision/latest?cb=20231228110155"
+    },
+    {
+        "cookie-name": "Cotton",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d3/Cookie_cotton_card.png/revision/latest?cb=20211119182026",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5a/Cotton_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211119061652",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fe/Cotton_head.png/revision/latest?cb=20211118215348"
+    },
+    {
+        "cookie-name": "Cocoa",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b8/Cookie_cocoa_card.png/revision/latest?cb=20211209133631",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/ff/Cocoa_illustration.png/revision/latest/scale-to-width-down/1000?cb=20211214231416",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Cocoa_head.png/revision/latest?cb=20211209133730"
+    },
+    {
+        "cookie-name": "Eclair",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Cookie_eclair_card.png/revision/latest?cb=20220119143133",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/07/Eclair_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220125222707",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Eclair_head.png/revision/latest?cb=20230528083015"
+    },
+    {
+        "cookie-name": "Tea Knight",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f7/Cookie_tea_knight_card.png/revision/latest?cb=20220119143132",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ea/Tea_knight_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220125222627",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/44/Tea_knight_head.png/revision/latest?cb=20220119143136"
+    },
+    {
+        "cookie-name": "Affogato",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/95/Cookie_affogato_card.png/revision/latest?cb=20221110191816",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d2/Affogato_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220225203215",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/99/Affogato_head.png/revision/latest?cb=20231228114103"
+    },
+    {
+        "cookie-name": "Caramel Arrow",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e9/Cookie_caramel_arrow_card.png/revision/latest?cb=20220325151040",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e4/Caramel_arrow_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220329141823",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d5/Caramel_arrow_head.png/revision/latest?cb=20220325150841"
+    },
+    {
+        "cookie-name": "Cherry Blossom",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fe/Cookie_cherry_blossom_card.png/revision/latest?cb=20220418133721",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7d/Cherry_blossom_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220420145137",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0a/Cherry_blossom_head.png/revision/latest?cb=20220418144537"
+    },
+    {
+        "cookie-name": "Wildberry",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Cookie_wildberry_card.png/revision/latest?cb=20220530021001",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f0/Wildberry_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220510060359",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8f/Wildberry_head.png/revision/latest?cb=20231228130109"
+    },
+    {
+        "cookie-name": "",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Cookie_crunchy_chip_card.png/revision/latest?cb=20220527130851",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e6/Crunchy_chip_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220601162147",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/37/Crunchy_chip_head.png/revision/latest?cb=20231228103940"
+    },
+    {
+        "cookie-name": "Financier",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fd/Cookie_financier_card.png/revision/latest?cb=20220707100824",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f6/Financier_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220712072102",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/95/Financier_head.png/revision/latest?cb=20220707100824"
+    },
+    {
+        "cookie-name": "Cream Unicorn",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4d/Cookie_cream_unicorn_card.png/revision/latest?cb=20220728100330",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e3/Cream_unicorn_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220803210008",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5a/Cream_unicorn_head.png/revision/latest?cb=20220728100332"
+    },
+    {
+        "cookie-name": "Captain Caviar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c8/Cookie_captain_caviar_card.png/revision/latest?cb=20220906100756",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/51/Captain_caviar_illustration.png/revision/latest?cb=20220906100741",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/85/Captain_caviar_head.png/revision/latest?cb=20220906100735"
+    },
+    {
+        "cookie-name": "Candy Diver",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7f/Cookie_candy_diver_card.png/revision/latest?cb=20220927104222",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Candy_diver_illustration.png/revision/latest/scale-to-width-down/1000?cb=20220928050013",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7a/Candy_diver_head.png/revision/latest?cb=20231228104509"
+    },
+    {
+        "cookie-name": "Schwarzwälder",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Cookie_schwarzw%C3%A4lder_card.png/revision/latest?cb=20221013021839",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/55/Schwarzwalder_illustration.png/revision/latest/scale-to-width-down/1000?cb=20221019005623",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/50/Schwarzwalder_head.png/revision/latest?cb=20231228104134"
+    },
+    {
+        "cookie-name": "Macaron",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7c/Cookie_macaron_card.png/revision/latest?cb=20221109234739",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Macaron_illustration.png/revision/latest/scale-to-width-down/1000?cb=20221111060932",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7d/Macaron_head.png/revision/latest?cb=20221109194337"
+    },
+    {
+        "cookie-name": "Carol",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4b/Cookie_carol_card.png/revision/latest?cb=20221130100817",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8e/Carol_illustration.png/revision/latest/scale-to-width-down/1000?cb=20221206003425",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b0/Carol_head.png/revision/latest?cb=20221130100816"
+    },
+    {
+        "cookie-name": "Pinecone",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/37/Cookie_pinecone_card.png/revision/latest?cb=20221215095848",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f5/Pinecone_illustration.png/revision/latest/scale-to-width-down/1000?cb=20221227222204",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5b/Pinecone_head.png/revision/latest?cb=20221215095910"
+    },
+    {
+        "cookie-name": "Prophet",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/66/Cookie_prophet_card.png/revision/latest?cb=20230105094904",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Prophet_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230108023746",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b6/Prophet_head.png/revision/latest?cb=20230105093300"
+    },
+    {
+        "cookie-name": "Milky Way",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a0/Cookie_milky_way_card.png/revision/latest?cb=20230119031302",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d1/Milky_way_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230123060954",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2f/Milky_way_head.png/revision/latest?cb=20230119022815"
+    },
+    {
+        "cookie-name": "Space Doughnut",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/67/Cookie_space_doughnut_card.png/revision/latest?cb=20230309102108",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f1/Space_doughnut_illustration.png/revision/latest?cb=20230313213727",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d6/Space_doughnut_head.png/revision/latest?cb=20230309102048"
+    },
+    {
+        "cookie-name": "Kouign-Amann",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b7/Cookie_kouign-amann_card.png/revision/latest?cb=20230528083037",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5a/Kouign_amann_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230424004338",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6d/Kouign_amann_head.png/revision/latest?cb=20230420152249"
+    },
+    {
+        "cookie-name": "Royal Margarine",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b4/Cookie_royal_margarine_card.png/revision/latest?cb=20230528083138",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d0/Royal_margarine_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230519211531",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e3/Royal_margarine_head.png/revision/latest?cb=20230528083021"
+    },
+    {
+        "cookie-name": "Tarte Tatin",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6d/Cookie_tarte_tatin_card.png/revision/latest?cb=20230608125304",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e7/Tarte_tatin_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230617032230",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/73/Tarte_tatin_head.png/revision/latest?cb=20230608125225"
+    },
+    {
+        "cookie-name": "Rockstar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a7/Cookie_rockstar_card.png/revision/latest?cb=20230705100052",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a3/Rockstar_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230707185456",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/08/Rockstar_head.png/revision/latest?cb=20230705100045"
+    },
+    {
+        "cookie-name": "Black Lemonade",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5f/Cookie_black_lemonade_card.png/revision/latest?cb=20230721093923",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/65/Black_lemonade_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230725043341",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Black_lemonade_head.png/revision/latest?cb=20230711090231"
+    },
+    {
+        "cookie-name": "Orange",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9e/Cookie_orange_card.png/revision/latest?cb=20250716031400",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cc/Orange_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250718161316",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f8/Orange_head.png/revision/latest?cb=20250702030115"
+    },
+    {
+        "cookie-name": "Jagae",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e1/Cookie_jagae_card.png/revision/latest?cb=20250730040122",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bb/Jagae_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250730034149",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1f/Jagae_head.png/revision/latest?cb=20250730030631"
+    },
+    {
+        "cookie-name": "Manju",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8c/Cookie_manju_card.png/revision/latest?cb=20250730040245",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2a/Manju_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250730034324",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/46/Manju_head.png/revision/latest?cb=20250730030619"
+    },
+    {
+        "cookie-name": "Lime",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d6/Cookie_lime_card.png/revision/latest?cb=20250730040344",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4c/Lime_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250730034703",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/50/Lime_head.png/revision/latest?cb=20250702185033"
+    },
+    {
+        "cookie-name": "Grapefruit",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2b/Cookie_grapefruit_card.png/revision/latest?cb=20250813030145",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/45/Grapefruit_illustration.png/revision/latest?cb=20250813030034",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Grapefruit_head.png/revision/latest?cb=20250702185051"
+    },
+    {
+        "cookie-name": "Lemon",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f0/Cookie_lemon_card.png/revision/latest?cb=20250702013014",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a8/Lemon_illustration.png/revision/latest?cb=20250718161139",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8d/Lemon_head.png/revision/latest?cb=20250702013037"
+    },
+    {
+        "cookie-name": "Cream Soda",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3e/Cookie_cream_soda_card.png/revision/latest?cb=20250626021102",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c0/Cream_soda_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250625072756",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Cream_soda_head.png/revision/latest?cb=20250626021227"
+    },
+    {
+        "cookie-name": "Sugarfly",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/ff/Cookie_sugarfly_card.png/revision/latest?cb=20250604014403",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Sugarfly_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250605074219",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/92/Sugarfly_head.png/revision/latest?cb=20250604014948"
+    },
+    {
+        "cookie-name": "Pavlova",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f8/Cookie_pavlova_card.png/revision/latest?cb=20250507011817",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Pavlova_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250507034801",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4f/Pavlova_head.png/revision/latest?cb=20250507011817"
+    },
+    {
+        "cookie-name": "Agar Agar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Cookie_agar_agar_card.png/revision/latest?cb=20250409010915",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6e/Agar_agar_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250808200721",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ed/Agar_agar_head.png/revision/latest?cb=20250409010830"
+    },
+    {
+        "cookie-name": "Wedding Cake",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/03/Cookie_wedding_cake_card.png/revision/latest?cb=20250312013656",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/12/Wedding_cake_illustration.png/revision/latest?cb=20250318034840",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/28/Wedding_cake_head.png/revision/latest?cb=20250312013422"
+    },
+    {
+        "cookie-name": "Black Forest",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/93/Cookie_black_forest_card.png/revision/latest?cb=20250312013621",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/ec/Black_forest_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250318034654",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a3/Black_forest_head.png/revision/latest?cb=20250312013359"
+    },
+    {
+        "cookie-name": "Okchun",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f0/Cookie_okchun_card.png/revision/latest?cb=20241231041434",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e0/Okchun_illustration.png/revision/latest?cb=20241231040801",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/39/Okchun_head.png/revision/latest?cb=20241231040647"
+    },
+    {
+        "cookie-name": "Green Tea Mousse",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0f/Cookie_green_tea_mousse_card.png/revision/latest?cb=20250411002138",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ca/Green_tea_mousse_illustration.png/revision/latest/scale-to-width-down/1000?cb=20250411003119",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/82/Green_tea_mousse_head.png/revision/latest?cb=20241219222205"
+    },
+    {
+        "cookie-name": "Choco Drizzle",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c7/Cookie_choco_drizzle_card.png/revision/latest?cb=20241204021125",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cd/Choco_drizzle_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241217044659",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/09/Choco_drizzle_head.png/revision/latest?cb=20241204021127"
+    },
+    {
+        "cookie-name": "Red Osmanthus",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f6/Cookie_red_osmanthus_card.png/revision/latest?cb=20241118182334",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/10/Red_osmanthus_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241124121524",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e3/Red_osmanthus_head.png/revision/latest?cb=20241118211934"
+    },
+    {
+        "cookie-name": "Golden Osmanthus",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e0/Cookie_golden_osmanthus_card.png/revision/latest?cb=20241118181459",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/92/Golden_osmanthus_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241124115037",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4f/Golden_osmanthus_head.png/revision/latest?cb=20241118212034"
+    },
+    {
+        "cookie-name": "Smoked Cheese",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9a/Cookie_smoked_cheese_card.png/revision/latest?cb=20241030022637",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6b/Smoked_cheese_illustration.png/revision/latest/scale-to-width-down/1000?cb=20241031033815",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/97/Smoked_cheese_head.png/revision/latest?cb=20241030013227"
+    },
+    {
+        "cookie-name": "Nutmeg Tiger",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bb/Cookie_nutmeg_tiger_card.png/revision/latest?cb=20241002012921",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/85/Nutmeg_tiger_illustration_no_rock.png/revision/latest/scale-to-width-down/1000?cb=20241009194453",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/bc/Nutmeg_tiger_head.png/revision/latest?cb=20241002051427"
+    },
+    {
+        "cookie-name": "Peach Blossom",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/88/Cookie_peach_blossom_card.png/revision/latest?cb=20240628163118",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/66/Peach_blossom_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240628113749",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/39/Peach_blossom_head.png/revision/latest?cb=20240628161513"
+    },
+    {
+        "cookie-name": "Cloud Haetae",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f2/Cookie_cloud_haetae_card.png/revision/latest?cb=20240522010628",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0e/Cloud_haetae_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240604173537",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Cloud_haetae_head.png/revision/latest?cb=20240522010620"
+    },
+    {
+        "cookie-name": "Street Urchin",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f0/Cookie_street_urchin_card.png/revision/latest?cb=20240409085056",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c2/Street_urchin_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240427014949",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b7/Street_urchin_head.png/revision/latest?cb=20240409085101"
+    },
+    {
+        "cookie-name": "Caramel Choux",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3f/Cookie_caramel_choux_card.png/revision/latest?cb=20240327181115",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b6/Caramel_choux_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240328172027",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/53/Caramel_choux_head.png/revision/latest?cb=20240327181336"
+    },
+    {
+        "cookie-name": "Butter Roll",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b6/Cookie_butter_roll_card.png/revision/latest?cb=20240313081146",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/eb/Butter_roll_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240315140743",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/30/Butter_roll_head.png/revision/latest?cb=20240313081144"
+    },
+    {
+        "cookie-name": "Matcha",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Cookie_matcha_card.png/revision/latest?cb=20240229012702",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/32/Matcha_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240306170825",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7a/Matcha_head.png/revision/latest?cb=20240229012455"
+    },
+    {
+        "cookie-name": "Mercurial Knight",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1a/Cookie_mercurial_knight_card.png/revision/latest?cb=20240207144013",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/74/Mercurial_knight_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240207145859",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b5/Mercurial_knight_head.png/revision/latest?cb=20240207144212"
+    },
+    {
+        "cookie-name": "Silverbell",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d1/Cookie_silverbell_card.png/revision/latest?cb=20240119033933",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b1/Silverbell_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240119065042",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Silverbell_head.png/revision/latest?cb=20240119034300"
+    },
+    {
+        "cookie-name": "Rebel",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0e/Cookie_rebel_card.png/revision/latest?cb=20240104091939",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2e/Rebel_illustration.png/revision/latest/scale-to-width-down/1000?cb=20240120072311",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8f/Rebel_head.png/revision/latest?cb=20240104091647"
+    },
+    {
+        "cookie-name": "Linzer",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f9/Cookie_linzer_card.png/revision/latest?cb=20231213144523",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Linzer_illustration.png/revision/latest?cb=20231230153455",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/83/Linzer_head.png/revision/latest?cb=20231213144701"
+    },
+    {
+        "cookie-name": "Olive",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/86/Cookie_olive_card.png/revision/latest?cb=20231103144816",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/02/Olive_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231109200618",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9d/Olive_head.png/revision/latest?cb=20231103144817"
+    },
+    {
+        "cookie-name": "Mozzarella",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1c/Mozzarella_head.png/revision/latest?cb=20231103144344",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b6/Mozzarella_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231109201312",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/33/Cookie_mozzarella_card.png/revision/latest?cb=20231103144342"
+    },
+    {
+        "cookie-name": "Fettuccine",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fe/Cookie_fettuccine_card.png/revision/latest?cb=20231019165718",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7b/Fettuccine_illustration.png/revision/latest/scale-to-width-down/1000?cb=20231109204006",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cf/Fettuccine_head.png/revision/latest?cb=20231019165719"
+    },
+    {
+        "cookie-name": "Burnt Cheese",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b2/Cookie_burnt_cheese_card.png/revision/latest?cb=20230926222636",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a9/Burnt_cheese_illustration.png/revision/latest/scale-to-width-down/1000?cb=20230927065301",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/65/Burnt_cheese_head.png/revision/latest?cb=20230926155647"
+    },
+    {
+        "cookie-name": "Peppermint",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3a/Cookie_peppermint_card.png/revision/latest?cb=20230809102116",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/80/Peppermint_illustration_no_whale.png/revision/latest?cb=20230812043736",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/45/Peppermint_head.png/revision/latest?cb=20230809102053"
+    },
+    {
+        "cookie-name": "Salt Cellar",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0b/Cookie_salt_cellar_card.png/revision/latest?cb=20251022020425",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/95/Salt_cellar_illustration.png/revision/latest/scale-to-width-down/1000?cb=20251115005052",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/73/Salt_cellar_head.png/revision/latest?cb=20251022020343"
+    },
+    {
+        "cookie-name": "Charcoal",
+        "icon-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e7/Cookie_charcoal_card.png/revision/latest?cb=20250924025806",
+        "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/14/Charcoal_illustration.png/revision/latest/scale-to-width-down/1000?cb=20251012003059",
+        "head-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c7/Charcoal_head.png/revision/latest?cb=20250924020914"
+    }
+]

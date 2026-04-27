@@ -1,0 +1,72 @@
+{
+    "treasures": [
+        {
+            "name": "Watch",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/60/Treasure_sleepyheads_jelly_watch_bg.png/revision/latest?cb=20230809025830"
+        },
+        {
+            "name": "Scroll",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f2/Treasure_old_pilgrims_scroll_bg.png/revision/latest?cb=20230809014352"
+        },
+        {
+            "name": "Regular Whistle",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6d/Treasure_dream_conductors_whistle_bg.png/revision/latest?cb=20230809030807"
+        },
+        {
+            "name": "Robes",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5b/Treasure_librarians_enchanted_robes_bg.png/revision/latest?cb=20230809023907"
+        },
+        {
+            "name": "Crimson Whistle",
+            "image-src": "/assets/imgs/crimson-whistle.png"
+        }
+    ],
+    "toppings": [
+        {
+            "name": "atk",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/63/Topping_raspberry_3.png/revision/latest/"
+        },
+        {
+            "name": "cooldown",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/00/Topping_chocolate_3.png/revision/latest/"
+        },
+        {
+            "name": "crit",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4d/Topping_applejelly_3.png/revision/latest/"
+        },
+        {
+            "name": "atk spd",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e2/Topping_caramel_3.png/revision/latest/"
+        },
+        {
+            "name": "hp",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/04/Topping_peanut_3.png/revision/latest/"
+        },
+        {
+            "name": "amp buff",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/26/Topping_candy_3.png/revision/latest"
+        }
+    ],
+    "tarts": [
+        {
+            "name": "atk",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4b/Topping_tart_raspberry_3.png/revision/latest/"
+        },
+        {
+            "name": "cooldown",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/44/Topping_tart_chocolate_3.png/revision/latest/"
+        },
+        {
+            "name": "atk spd",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7c/Topping_tart_caramel_3.png/revision/latest/"
+        },
+        {
+            "name": "hp",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/42/Topping_tart_peanut_3.png/revision/latest"
+        },
+        {
+            "name": "dmg res",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/88/Topping_tart_almond_3.png/revision/latest/"
+        }
+    ]
+}

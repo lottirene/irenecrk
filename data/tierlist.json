@@ -1,0 +1,173 @@
+[
+	{
+		"id": "pve",
+		"title": "PvE Tier List (World Exp/Trays)",
+		"item-type": "cookies",
+		"tiers": [
+			{
+				"tier": "S",
+				"cookies": [
+					"Dark Enchantress",
+					"Burning Spice",
+					"Silent Salt",
+					"Eternal Sugar",
+					"Shadow Milk",
+					"Mystic Flour",
+					"Awakened White Lily",
+					"Fire Spirit",
+					"Sugar Swan"
+				]
+			},
+			{
+				"tier": "A",
+				"cookies": [
+					"Awakened Golden Cheese",
+					"Awakened Dark Cacao",
+					"Awakened Pure Vanilla",
+					"Stormbringer",
+					"Wind Archer",
+					"Doughael"
+				]
+			},
+			{
+				"tier": "B",
+				"cookies": [
+					"Venom Dough"
+				]
+			},
+			{
+				"tier": "C",
+				"cookies": [
+					"Elder Faerie"
+				]
+			},
+			{
+				"tier": "D",
+				"cookies": [
+					"Frost Queen",
+					"Sea Fairy"
+				]
+			},
+			{
+				"tier": "E",
+				"cookies": [
+					"Black Pearl"
+				]
+			},
+			{
+				"tier": "F",
+				"cookies": [
+					"Capsaicin",
+					"Oyster"
+				]
+			}
+		]
+	},
+	{
+		"id": "arena",
+		"title": "Arena Tier List",
+		"item-type": "cookies",
+		"tiers": [
+			{
+				"tier": "S",
+				"cookies": [
+					"Dark Enchantress",
+					"Awakened White Lily",
+					"Millennial Tree",
+					"Sugar Swan"
+				]
+			},
+			{
+				"tier": "A",
+				"cookies": [
+					"Shadow Milk",
+					"Venom Dough"
+				]
+			},
+			{
+				"tier": "B",
+				"cookies": [
+					"Burning Spice"
+				]
+			}
+		]
+	},
+	{
+		"id": "guild",
+		"title": "Guild Tier List",
+		"item-type": "cookies",
+		"tiers": [
+			{
+				"tier": "S",
+				"cookies": [
+					"Eternal Sugar",
+					"Shadow Milk",
+					"Wind Archer",
+					"Sea Fairy",
+					"Menthol",
+					"Seltzer",
+					"Prune Juice",
+					"Black Sapphire",
+					"Pom-pom Dough",
+					"Cream Ferret",
+					"Marshmallow Bunny"
+				]
+			},
+			{
+				"tier": "A",
+				"cookies": [
+					"Mint Choco",
+					"Star Coral",
+					"Crème Brûlée"
+				]
+			}
+		]
+	},
+	{
+		"id": "alliance",
+		"title": "Alliance Tier List",
+		"item-type": "cookies",
+		"tiers": [
+			{
+				"tier": "S",
+				"cookies": [
+					"Eternal Sugar",
+					"Millennial Tree",
+					"Twizzly Gummy",
+					"Black Lemonade",
+					"Rebel",
+					"Pudding à la Mode",
+					"Star Coral",
+					"Marshmallow Bunny"
+				]
+			},
+			{
+				"tier": "A",
+				"cookies": [
+					"Dark Enchantress",
+					"Burning Spice",
+					"Awakened White Lily",
+					"Space Doughnut",
+					"Dark Choco",
+					"Cream Ferret"
+				]
+			}
+		]
+	},
+	{
+		"id": "treasures",
+		"title": "Treasure Tier List",
+		"item-type": "treasures",
+		"tiers": [
+			{
+				"tier": "S",
+				"treasures": [
+					"Robes",
+					"Watch",
+					"Crimson Whistle",
+					"Scroll"
+				]
+			}
+		]
+	}
+]

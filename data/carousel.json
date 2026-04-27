@@ -1,0 +1,69 @@
+{
+    "popular-guides": [
+        {
+            "title": "Machine God Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/84/Boss_skill_machine-god_passive.png/revision/latest?cb=20250830025345",
+            "alt": "Machine God of the Eternal Void icon",
+            "href": "/pages/guild/mgod-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Living Abyss Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8b/Guild_passive_chill_of_the_abyss.png/revision/latest?cb=20220811191822",
+            "alt": "Living Abyss icon",
+            "href": "/pages/guild/la-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Red Velvet Dragon Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b1/Red_velvet_dragon_skill_2.png/revision/latest?cb=20210514012358",
+            "alt": "Red Velvet Dragon icon",
+            "href": "/pages/guild/rvd-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Avatar of Destiny Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ca/Passive_reversal.png/revision/latest?cb=20220811192010",
+            "alt": "Avatar of Destiny icon",
+            "href": "/pages/guild/aod-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Beginner Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2f/Gingerbrave_skill.png/revision/latest?cb=20240123221245",
+            "alt": "Beginner icon",
+            "href": "/pages/beginner-guide.html",
+            "button-text": "Go to guide"
+        }
+    ],
+    "guild-guides": [
+        {
+            "title": "Machine God Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/84/Boss_skill_machine-god_passive.png/revision/latest?cb=20250830025345",
+            "alt": "Machine God of the Eternal Void icon",
+            "href": "/pages/guild/mgod-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Living Abyss Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8b/Guild_passive_chill_of_the_abyss.png/revision/latest?cb=20220811191822",
+            "alt": "Living Abyss icon",
+            "href": "/pages/guild/la-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Red Velvet Dragon Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b1/Red_velvet_dragon_skill_2.png/revision/latest?cb=20210514012358",
+            "alt": "Red Velvet Dragon icon",
+            "href": "/pages/guild/rvd-guide.html",
+            "button-text": "Go to guide"
+        },
+        {
+            "title": "Avatar of Destiny Guide",
+            "img": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/ca/Passive_reversal.png/revision/latest?cb=20220811192010",
+            "alt": "Avatar of Destiny icon",
+            "href": "/pages/guild/aod-guide.html",
+            "button-text": "Go to guide"
+        }
+    ]
+}

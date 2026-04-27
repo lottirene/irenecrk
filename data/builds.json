@@ -1,0 +1,1212 @@
+[
+	{
+		"boss-name": "Machine God of the Eternal Void",
+		"teams": [
+			{
+				"team-name": "Standard",
+				"cookies": [
+					{
+						"cookie-name": "Frilled Jellyfish",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg"
+								],
+								"description": "35% Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit",
+								"magic-candy": true,
+								"mc-note": "Magic Candy +30 Recommended"
+							},
+							"alt": {
+								"tart": "cooldown",
+								"toppings": [
+									"atk",
+									"atk",
+									"atk",
+									"atk",
+									"atk"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "35% Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit",
+								"magic-candy": true,
+								"mc-note": "Magic Candy +30 Recommended"
+							}
+						}
+					},
+					{
+						"cookie-name": "Sea Fairy",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg"
+								],
+								"description": "35% Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit",
+								"magic-candy": true,
+								"mc-note": "Crystal Jam +30 Recommended"
+							}
+						}
+					},
+					{
+						"cookie-name": "Seltzer",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"atk",
+									"atk",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg"
+								],
+								"description": "24%~ Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+							},
+							"alt": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg"
+								],
+								"description": "35% Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+							},
+							"alt-2": {
+								"tart": "atk",
+								"toppings": [
+									"atk",
+									"atk",
+									"atk",
+									"atk",
+									"atk"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "24%~ Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+							}
+						}
+					},
+					{
+						"cookie-name": "Menthol",
+						"builds": {
+							"tart": "cooldown",
+							"toppings": [
+								"atk",
+								"atk",
+								"atk",
+								"atk",
+								"cooldown"
+							],
+							"beascuit": [
+								"Water Dmg",
+								"Water Dmg",
+								"Water Dmg",
+								"Water Dmg"
+							],
+							"description": "18.7% Cooldown\nOR 19.2% Cooldown\n11.6%+ Atk Spd\nMax Atk",
+							"stats-priority": "Cooldown ⇨ Atk Spd ⇨ Atk"
+						}
+					},
+					{
+						"cookie-name": "Cream Ferret",
+						"builds": {
+							"tart": "cooldown",
+							"toppings": [
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Cooldown",
+								"Cooldown",
+								"Cooldown"
+							],
+							"description": "54% Cooldown\n(2 second start)\nMax Atk\nMax Crit",
+							"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+						}
+					}
+				],
+				"treasures": {
+					"1": "Watch",
+					"2": "Crimson Whistle",
+					"3": "Scroll"
+				},
+				"stats-images": [
+					{
+						"src": "/assets/imgs/mgod-team.png",
+						"caption": "Team Overview"
+					},
+					{
+						"src": "/assets/imgs/mgod-fj-stats.png",
+						"caption": "Frilled Jellyfish Stats"
+					},
+					{
+						"src": "/assets/imgs/mgod-sf-stats.png",
+						"caption": "Sea Fairy Stats"
+					},
+					{
+						"src": "/assets/imgs/mgod-seltz-stats.png",
+						"caption": "Seltzer Stats"
+					},
+					{
+						"src": "/assets/imgs/mgod-menth-stats.png",
+						"caption": "Menthol Stats"
+					},
+					{
+						"src": "/assets/imgs/mgod-cf-stats.png",
+						"caption": "Cream Ferret Stats"
+					}
+				],
+				"videos": [
+					{
+						"src": "https://www.youtube.com/embed/foeeWZmkINM?si=I76_0G1nN4d9FZX1&amp;start=653",
+						"title": "Guide Video"
+					},
+					{
+						"src": "https://www.youtube.com/embed/-JMt7QtVBlw?si=128fh_iEnwt0T2cs",
+						"title": "Run Video"
+					}
+				],
+				"timings": [
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret"
+						}
+					],
+					[
+						{
+							"cookie": "Sea Fairy",
+							"note": "Queue Sea Fairy"
+						}
+					],
+					[
+						{
+							"cookie": "Seltzer",
+							"note": "Spam Seltzer"
+						}
+					],
+					[
+						{
+							"note": "--Boss Banner--"
+						}
+					],
+					[
+						{
+							"note": "Turn off Auto"
+						}
+					],
+					[
+						{
+							"cookie": "Frilled Jellyfish",
+							"note": "Cast between 59.250-59.125"
+						}
+					],
+					[
+						{
+							"cookie": "Menthol",
+							"note": "Cast at: 58.563-500 for 18.7% Cooldown\n58.438-58.250 for 19.2% Cooldown (Optimally, 58.250)"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret"
+						}
+					],
+					[
+						{
+							"cookie": "Sea Fairy",
+							"note": "Auto Sea Fairy"
+						}
+					],
+					[
+						{
+							"cookie": "Seltzer",
+							"note": "Spam Seltzer"
+						}
+					],
+					[
+						{
+							"note": "Spam the rest of the cookies for the run, priortise Menthol"
+						}
+					],
+					[
+						{
+							"cookie": "Menthol",
+							"note": "Menthol last cast should be at 2.625 at the LATEST"
+						}
+					]
+				],
+				"tables": [
+					{
+						"title": "Menthol Cast Times",
+						"columns": [
+							"Cooldown",
+							"Cast Time"
+						],
+						"rows": [
+							[
+								"<19.2",
+								"58.563-500"
+							],
+							[
+								">=19.2",
+								"58.438-58.250 (Aim for 59.250)"
+							]
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"boss-name": "Living Abyss",
+		"teams": [
+			{
+				"team-name": "Standard",
+				"cookies": [
+					{
+						"cookie-name": "Blueberry Pie",
+						"builds": {
+							"standard": {
+								"tart": "atk spd",
+								"toppings": [
+									"atk spd",
+									"atk",
+									"atk",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Elec Dmg",
+									"Elec Dmg",
+									"Elec Dmg",
+									"Elec Dmg"
+								],
+								"description": "33.1% Atk Spd\n34% Crit (Cap)\nMax Atk",
+								"stats-priority": "Atk Spd ⇨ Crit ⇨ Atk",
+								"magic-candy": true,
+								"mc-note": "Magic Candy +30 Recommended"
+							}
+						}
+					},
+					{
+						"cookie-name": "Cream Puff",
+						"builds": {
+							"standard": {
+								"tart": "hp",
+								"toppings": [
+									"hp",
+									"hp",
+									"hp",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Cooldown",
+									"HP",
+									"HP",
+									"HP"
+								],
+								"description": "14.1-14.3% Cooldown\nMax HP (137%~)\nMax Crit\n2 Atk Spd Subs\nCream Puff must be bitten!",
+								"stats-priority": "HP ⇨ Cooldown ⇨ Atk Spd ⇨ Crit",
+								"magic-candy": true,
+								"mc-note": "Magic Candy +30 Recommended"
+							}
+						}
+					},
+					{
+						"cookie-name": "Wind Archer",
+						"builds": {
+							"standard": {
+								"tart": "atk",
+								"toppings": [
+									"atk",
+									"atk",
+									"atk",
+									"atk spd",
+									"atk spd"
+								],
+								"beascuit": [
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd"
+								],
+								"description": "Atk Spd depends on CJ Lvl\n(see table at the bottom)\nMax Atk\nMax Crit",
+								"stats-priority": "Atk Spd ⇨ Atk ⇨ Crit",
+								"magic-candy": true,
+								"mc-note": "CJ as high as possible min +15 recommended"
+							}
+						}
+					},
+					{
+						"cookie-name": "Marshmallow Bunny",
+						"builds": {
+							"tart": "cooldown",
+							"toppings": [
+								"amp buff",
+								"amp buff",
+								"cooldown",
+								"cooldown",
+								"cooldown"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Cooldown",
+								"Cooldown",
+								"Cooldown"
+							],
+							"description": "50.2-50.4 Cooldown\n17%+ Amp Buff\nMax Atk/Crit",
+							"stats-priority": "Cooldown ⇨ Amp Buff ⇨ Atk/Crit"
+						}
+					},
+					{
+						"cookie-name": "Cream Ferret",
+						"builds": {
+							"tart": "cooldown",
+							"toppings": [
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Cooldown",
+								"Cooldown",
+								"Cooldown"
+							],
+							"description": "58.8% Cooldown\nMax Atk\nMax Crit",
+							"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+						}
+					}
+				],
+				"treasures": {
+					"1": "Robes",
+					"2": "Crimson Whistle",
+					"3": "Scroll"
+				},
+				"stats-images": [
+					{
+						"src": "/assets/imgs/wala-team.png",
+						"caption": "Team Overview"
+					},
+					{
+						"src": "/assets/imgs/la-bbp-stats.png",
+						"caption": "Blueberry Pie Stats"
+					},
+					{
+						"src": "/assets/imgs/la-puff-stats.png",
+						"caption": "Cream Puff Stats"
+					},
+					{
+						"src": "/assets/imgs/la-wa-stats.png",
+						"caption": "Wind Archer Stats"
+					},
+					{
+						"src": "/assets/imgs/la-mmb-stats.png",
+						"caption": "Marshmallow Bunny Stats"
+					},
+					{
+						"src": "/assets/imgs/la-cf-stats.png",
+						"caption": "Cream Ferret Stats"
+					}
+				],
+				"videos": [
+					{
+						"src": "https://www.youtube.com/embed/foeeWZmkINM?si=I76_0G1nN4d9FZX1&amp;start=1063",
+						"title": "Guide Video"
+					},
+					{
+						"src": "https://www.youtube.com/embed/ym_YqtAPaL4?si=Xx8qjd4Mkltjnw32",
+						"title": "Run Video"
+					}
+				],
+				"timings": [
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret"
+						}
+					],
+					[
+						{
+							"cookie": "Marshmallow Bunny",
+							"note": "Queue Marshmallow Bunny"
+						}
+					],
+					[
+						{
+							"cookie": "Wind Archer",
+							"note": "Queue Wind Archer"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret"
+						}
+					],
+					[
+						{
+							"note": "--Boss Banner--"
+						}
+					],
+					[
+						{
+							"cookie": "Blueberry Pie",
+							"note": "Cast Blueberry Pie between at 58.375"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Puff",
+							"note": "Cast Cream Puff at 57.875"
+						}
+					],
+					[
+						{
+							"note": "Auto until 41s"
+						}
+					],
+					[
+						{
+							"cookie": "Marshmallow Bunny",
+							"note": "Queue Marshmallow Bunny"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Auto Cream Ferret"
+						}
+					],
+					[
+						{
+							"cookie": "Wind Archer",
+							"note": "Cast Wind Archer at 24.875"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Cast Cream Ferret at 3 Atk Spd down"
+						}
+					],
+					[
+						{
+							"cookie": "Marshmallow Bunny",
+							"note": "Queue Marshmallow Bunny"
+						}
+					],
+					[
+						{
+							"cookie": "Wind Archer",
+							"note": "Auto Wind Archer"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Auto Cream Ferret"
+						}
+					]
+				],
+				"tables": [
+					{
+						"title": "Wind Archer Atk Spd Table",
+						"columns": [
+							"CJ Lvl",
+							"Atk Spd",
+							"CJ Lvl",
+							"Atk Spd",
+							"CJ Lvl",
+							"Atk Spd"
+						],
+						"rows": [
+							[
+								"1",
+								"38.8%",
+								"11",
+								"36.7%",
+								"21",
+								"27.6%"
+							],
+							[
+								"2",
+								"38.6%",
+								"12",
+								"36.5%",
+								"22",
+								"27.4%"
+							],
+							[
+								"3",
+								"38.4%",
+								"13",
+								"36.3%",
+								"23",
+								"27.2%"
+							],
+							[
+								"4",
+								"38.2%",
+								"14",
+								"36.1%",
+								"24",
+								"27.0%"
+							],
+							[
+								"5",
+								"38.0%",
+								"15",
+								"28.9%",
+								"25",
+								"26.8%"
+							],
+							[
+								"6",
+								"37.8%",
+								"16",
+								"28.6%",
+								"26",
+								"26.6%"
+							],
+							[
+								"7",
+								"37.5%",
+								"17",
+								"28.4%",
+								"27",
+								"26.4%"
+							],
+							[
+								"8",
+								"37.3%",
+								"18",
+								"28.2%",
+								"28",
+								"26.2%"
+							],
+							[
+								"9",
+								"37.1%",
+								"19",
+								"28.0%",
+								"29",
+								"26.0%"
+							],
+							[
+								"10",
+								"36.9%",
+								"20",
+								"27.8%",
+								"30",
+								"25.8%"
+							]
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"boss-name": "Red Velvet Dragon",
+		"teams": [
+			{
+				"team-name": "Standard",
+				"cookies": [
+					{
+						"cookie-name": "Pom-pom Dough",
+						"builds": {
+							"standard": {
+								"tart": "atk",
+								"toppings": [
+									"crit",
+									"crit",
+									"crit",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Poison Dmg",
+									"Poison Dmg",
+									"Poison Dmg",
+									"Poison Dmg"
+								],
+								"description": "8%+ Cooldown\nMax Crit\nMax Atk",
+								"stats-priority": "Cooldown ⇨ Crit ⇨ Atk"
+							}
+						}
+					},
+					{
+						"cookie-name": "Shadow Milk",
+						"builds": {
+							"standard": {
+								"tart": "atk",
+								"toppings": [
+									"crit",
+									"crit",
+									"crit",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "32%~ Cooldown\nMax Crit\nMax Atk",
+								"stats-priority": "Cooldown ⇨ Crit ⇨ Atk"
+							}
+						}
+					},
+					{
+						"cookie-name": "Prune Juice",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"crit",
+									"crit",
+									"crit",
+									"crit",
+									"cooldown"
+								],
+								"beascuit": [
+									"Poison Dmg",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "35% Cooldown\n9.7%+ Atk Spd\nMax Crit\nMax Atk",
+								"stats-priority": "Cooldown ⇨ Atk Spd ⇨ Atk ⇨ Crit"
+							}
+						}
+					},
+					{
+						"cookie-name": "Black Sapphire",
+						"builds": {
+							"tart": "atk",
+							"toppings": [
+								"crit",
+								"crit",
+								"crit",
+								"crit",
+								"crit"
+							],
+							"beascuit": [
+								"Poison Dmg",
+								"Poison Dmg",
+								"Poison Dmg",
+								"Poison Dmg"
+							],
+							"description": "7.6%+ (8% Rec)\nMax Crit\nMax Atk",
+							"stats-priority": "Cooldown ⇨ Crit ⇨ Atk"
+						}
+					},
+					{
+						"cookie-name": "Candy Apple",
+						"builds": {
+							"tart": "dmg res",
+							"toppings": [
+								"crit",
+								"crit",
+								"crit",
+								"crit",
+								"crit"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Dmg Res",
+								"Dmg Res",
+								"Dmg Res"
+							],
+							"description": "14-15% Cooldown\nMax Dmg Res (50%~)\nMax Crit",
+							"stats-priority": "Dmg Res ⇨ Cooldown ⇨ Crit"
+						}
+					}
+				],
+				"treasures": {
+					"1": "Watch",
+					"2": "Crimson Whistle",
+					"3": "Scroll"
+				},
+				"stats-images": [
+					{
+						"src": "/assets/imgs/rvd-team.png",
+						"caption": "Dmg Distribution Stats"
+					},
+					{
+						"src": "/assets/imgs/rvd-ppd-stats.png",
+						"caption": "Pom-pom Dough Pie Stats"
+					},
+					{
+						"src": "/assets/imgs/rvd-smc-stats.png",
+						"caption": "Shadow Milk Stats"
+					},
+					{
+						"src": "/assets/imgs/rvd-pj-stats.png",
+						"caption": "Prune Juice Stats"
+					},
+					{
+						"src": "/assets/imgs/rvd-bs-stats.png",
+						"caption": "Black Sapphire Stats"
+					},
+					{
+						"src": "/assets/imgs/rvd-capple-stats.png",
+						"caption": "Candy Apple Stats"
+					}
+				],
+				"videos": [
+					{
+						"src": "https://www.youtube.com/embed/foeeWZmkINM?si=I76_0G1nN4d9FZX1&amp;start=1063",
+						"title": "Guide Video"
+					},
+					{
+						"src": "https://www.youtube.com/embed/-JMt7QtVBlw?si=128fh_iEnwt0T2cs",
+						"title": "Run Video"
+					}
+				],
+				"timings": [
+					[
+						{
+							"note": "--Boss Banner--"
+						}
+					],
+					[
+						{
+							"cookie": "Pom-pom Dough",
+							"note": "Spam Pom-pom Dough"
+						}
+					],
+					[
+						{
+							"cookie": "Shadow Milk",
+							"note": "Spam Shadow Milk"
+						}
+					],
+					[
+						{
+							"cookie": "Black Sapphire",
+							"note": "Spam Black Sapphire"
+						}
+					],
+					[
+						{
+							"cookie": "Candy Apple",
+							"note": "Queue Candy Apple"
+						}
+					],
+					[
+						{
+							"cookie": "Prune Juice",
+							"note": "Cast Prune Juice at 4/10 on the treasure glints"
+						}
+					],
+					[
+						{
+							"note": "Spam for the rest of the run"
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"boss-name": "Avatar of Destiny",
+		"teams": [
+			{
+				"team-name": "Standard",
+				"cookies": [
+					{
+						"cookie-name": "Pudding à la Mode",
+						"builds": {
+							"standard": {
+								"tart": "atk spd",
+								"toppings": [
+									"crit",
+									"crit",
+									"atk spd",
+									"atk spd",
+									"atk spd"
+								],
+								"beascuit": [
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd"
+								],
+								"description": "75% / 79.5% Atk Spd\n24.5% Crit (-1.5per crit costume)\n2-4% Cooldown\nMax Amp Buff",
+								"stats-priority": "Atk Spd ⇨ Crit ⇨ Amp Buff ⇨ Cooldown"
+							}
+						}
+					},
+					{
+						"cookie-name": "Mint Choco",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "MAX Cooldown (CD affects cast timings)\n10.6%+ Atk Spd",
+								"stats-priority": "Cooldown ⇨ Atk Spd"
+							}
+						}
+					},
+					{
+						"cookie-name": "Crème Brûlée",
+						"builds": {
+							"standard": {
+								"tart": "atk spd",
+								"toppings": [
+									"atk spd",
+									"atk spd",
+									"atk",
+									"atk",
+									"atk"
+								],
+								"beascuit": [
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd",
+									"Atk Spd"
+								],
+								"description": "74.2% / 75.3% Atk Spd\n7.7%+ Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk Spd ⇨ Atk ⇨ Crit"
+							}
+						}
+					},
+					{
+						"cookie-name": "Star Coral",
+						"builds": {
+							"tart": "cooldown",
+							"toppings": [
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown",
+								"cooldown"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Cooldown",
+								"Cooldown",
+								"Cooldown"
+							],
+							"description": "55.5-55.7 cooldown\nNO Atk Spd\nMax Atk/Crit",
+							"stats-priority": "Cooldown ⇨ Atk = Crit"
+						}
+					},
+					{
+						"cookie-name": "Cream Ferret",
+						"builds": {
+							"tart": "atk",
+							"toppings": [
+								"atk",
+								"atk",
+								"cooldown",
+								"cooldown",
+								"cooldown"
+							],
+							"beascuit": [
+								"Cooldown",
+								"Cooldown",
+								"Cooldown",
+								"Cooldown"
+							],
+							"description": "Cooldown depends on your Mint Cooldown, please see table\nMax Atk/ Crit\nNO ATK SPD",
+							"stats-priority": "Cooldown ⇨ Atk = Crit"
+						}
+					}
+				],
+				"treasures": {
+					"1": "Robes",
+					"2": "Regular Whistle",
+					"3": "Scroll"
+				},
+				"stats-images": [
+					{
+						"src": "/assets/imgs/aod-team.png",
+						"caption": "Team Overview"
+					},
+					{
+						"src": "/assets/imgs/aod-palm-stats.png",
+						"caption": "Pudding à la Mode Stats"
+					},
+					{
+						"src": "/assets/imgs/aod-mint-stats.png",
+						"caption": "Mint Choco Stats"
+					},
+					{
+						"src": "/assets/imgs/aod-cb-stats.png",
+						"caption": "Crème Brûlée Stats"
+					},
+					{
+						"src": "/assets/imgs/aod-cf-stats.png",
+						"caption": "Cream Ferret Stats"
+					},
+					{
+						"src": "/assets/imgs/aod-sc-stats.png",
+						"caption": "Star Coral Stats"
+					}
+				],
+				"videos": [
+					{
+						"src": "https://www.youtube.com/embed/n1zncEbBFYY?si=rSlrIWZH_KFR-Zys&amp;start=52",
+						"title": "Guide Video"
+					},
+					{
+						"src": "https://www.youtube.com/embed/QeHkObcw5Q4?si=YdTwHUNk1ojq5Hbx",
+						"title": "Run Video"
+					}
+				],
+				"timings": [
+					[
+						{
+							"cookie": "Star Coral",
+							"note": "Queue Star Coral"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret"
+						}
+					],
+					[
+						{
+							"cookie": "Pudding à la Mode",
+							"note": "Queue Pudding à la Mode"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "Cast Mint Choco at 4/10 on the treasure glints, before the steps"
+						}
+					],
+					[
+						{
+							"cookie": "Crème Brûlée",
+							"note": "Queue Crème Brûlée"
+						}
+					],
+					[
+						{
+							"note": "--Boss Banner--"
+						}
+					],
+					[
+						{
+							"cookie": "Star Coral",
+							"note": "Auto Star Coral"
+						}
+					],
+					[
+						{
+							"cookie": "Cream Ferret",
+							"note": "Queue Cream Ferret. MAKE SURE MINT DOES NOT CAST BEFORE CF!!"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "Auto Mint Choco, DO NOT TOUCH!!"
+						}
+					],
+					[
+						{
+							"note": "Auto until 44s"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "After Brulee's cast, spam Mint"
+						}
+					],
+					[
+						{
+							"note": "Auto everyone until 37s"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "Queue Mint Choco"
+						}
+					],
+					[
+						{
+							"cookie": "Star Coral",
+							"note": "Queue Star Coral"
+						}
+					],
+					[
+						{
+							"cookie": "Pudding à la Mode",
+							"note": "Auto Pudding a la Mode, DO NOT TOUCH!!"
+						}
+					],
+					[
+						{
+							"cookie": "Crème Brûlée",
+							"note": "Queue Crème Brûlée"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "Tap Mint Choco just after Brulee Casts, neither should be silenced"
+						}
+					],
+					[
+						{
+							"note": "Auto all until 20s"
+						}
+					],
+					[
+						{
+							"cookie": "Star Coral",
+							"note": "Queue Star Coral"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "After Star Coral casts, tap Mint"
+						}
+					],
+					[
+						{
+							"cookie": "Pudding à la Mode",
+							"note": "Then tap Pudding a la Mode immediately after Mint"
+						}
+					],
+					[
+						{
+							"cookie": "Mint Choco",
+							"note": "After Brulee's cast, spam Mint"
+						}
+					],
+					[
+						{
+							"cookie": "Star Coral",
+							"note": "Queue Star Coral"
+						}
+					],
+					[
+						{
+							"cookie": "Pudding à la Mode",
+							"note": "After Star Coral casts, tap Pudding"
+						}
+					]
+				],
+				"tables": [
+					{
+						"title": "Cream Ferret Cooldown Table",
+						"columns": [
+							"Mint Choco Cooldown",
+							"Cream Ferret Cooldown",
+							"Mint Choco Cast Time"
+						],
+						"rows": [
+							[
+								"59.4+",
+								"36.8-37.1",
+								"50.813"
+							],
+							[
+								"59-59.3",
+								"37.5-37.8",
+								"50.938"
+							],
+							[
+								"58.7-58.9",
+								"38.8-39.1",
+								"51.125"
+							],
+							[
+								"58.3-58.6",
+								"39.7-40.0",
+								"51.313"
+							],
+							[
+								"57.9-58.2",
+								"40.9-41.2",
+								"51.500"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+]
