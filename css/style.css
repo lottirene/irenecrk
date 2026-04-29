@@ -853,6 +853,7 @@ footer a:last-child {
 
 .la h1 {
     font-size: 7vw;
+    text-wrap: nowrap;
 }
 
 .la img {
@@ -986,10 +987,11 @@ footer a:last-child {
     flex-wrap: wrap;
     gap: 5px;
     padding: 1%;
+    align-items: flex-start;
 }
 
 .tier-cookie {
-    width: 100px;
+    width: clamp(70px, 10vw, 150px);
     height: auto;
 }
 
@@ -1211,6 +1213,36 @@ footer a:last-child {
         flex-direction: column;
     }
 
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2%;
+        gap: 5px;
+    }
+
+    .beginner-guide .row-wrapper {
+        flex-direction: column;
+    }
+
+    .beginner-guide img,
+    .beginner-guide .video {
+        max-width: 95%;
+        align-self: center;
+    }
+
+    .beginner-guide h2 {
+        font-size: clamp(1.9rem, 6.5vw, 2rem);
+        text-wrap: nowrap;
+    }
+
+    .beginner-guide h3 {
+        font-size: clamp(1.7rem, 5.5vw, 2rem);
+    }
+
+    .beginner-guide p {
+        font-size: clamp(1rem, 4vw, 1.4rem);
+    }
+
 }
 
 @media (max-width: 750px) {
@@ -1220,6 +1252,13 @@ footer a:last-child {
 
     .carousel-card {
         flex-basis: 100%;
+    }
+
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        padding: 2%;
+        gap: 5px;
     }
 }
 
