@@ -148,7 +148,7 @@ async function initialiseTeamBuild() {
         // image grid gallery for the cookie stats!
         const statsGrid = page.querySelector('[data-stats-images]');
         statsGrid.innerHTML = selectedTeam['stats-images'].map(({ src, caption }) => `
-        <figure class="stats-image" data-src="${src}" data-caption=${caption}">
+        <figure class="stats-image" data-src="${src}" data-caption="${caption}">
             <img src="${src}" alt="${caption}"<
             <figcaption>${caption}</figcaption>
         </figure>`).join('');

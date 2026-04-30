@@ -58,5 +58,25 @@
             "guild",
             "guide"
         ]
+    },
+    {
+        "title": "Beginner Guide",
+        "href": "/pages/guides/beginner-guide.html",
+        "description": "Beginner Guide for new players",
+        "keywords": [
+            "beginner guide",
+            "beginner",
+            "help"
+        ]
+    },
+    {
+        "title": "Tier Lists",
+        "href": "/pages/tierlist.html",
+        "description": "Cookie tier lists for all game modes",
+        "keywords": [
+            "tier list",
+            "tier lists",
+            "tiers"
+        ]
     }
 ]
