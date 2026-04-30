@@ -27,26 +27,6 @@
 								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit",
 								"magic-candy": true,
 								"mc-note": "Magic Candy +30 Recommended"
-							},
-							"alt": {
-								"tart": "cooldown",
-								"toppings": [
-									"atk",
-									"atk",
-									"atk",
-									"atk",
-									"atk"
-								],
-								"beascuit": [
-									"Cooldown",
-									"Cooldown",
-									"Cooldown",
-									"Cooldown"
-								],
-								"description": "35% Cooldown\nMax Atk\nMax Crit",
-								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit",
-								"magic-candy": true,
-								"mc-note": "Magic Candy +30 Recommended"
 							}
 						}
 					},
@@ -95,8 +75,36 @@
 								],
 								"description": "24%~ Cooldown\nMax Atk\nMax Crit",
 								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
-							},
-							"alt": {
+							}
+						}
+					},
+					{
+						"cookie-name": "Menthol",
+						"builds": {
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"atk",
+									"atk",
+									"atk",
+									"atk",
+									"cooldown"
+								],
+								"beascuit": [
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg",
+									"Water Dmg"
+								],
+								"description": "18.7% Cooldown\nOR 19.2% Cooldown\n11.6%+ Atk Spd\nMax Atk",
+								"stats-priority": "Cooldown ⇨ Atk Spd ⇨ Atk"
+							}
+						}
+					},
+					{
+						"cookie-name": "Cream Ferret",
+						"builds": {
+							"standard": {
 								"tart": "cooldown",
 								"toppings": [
 									"cooldown",
@@ -106,74 +114,14 @@
 									"cooldown"
 								],
 								"beascuit": [
-									"Water Dmg",
-									"Water Dmg",
-									"Water Dmg",
-									"Water Dmg"
-								],
-								"description": "35% Cooldown\nMax Atk\nMax Crit",
-								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
-							},
-							"alt-2": {
-								"tart": "atk",
-								"toppings": [
-									"atk",
-									"atk",
-									"atk",
-									"atk",
-									"atk"
-								],
-								"beascuit": [
 									"Cooldown",
 									"Cooldown",
 									"Cooldown",
 									"Cooldown"
 								],
-								"description": "24%~ Cooldown\nMax Atk\nMax Crit",
+								"description": "54% Cooldown\n(2 second start)\nMax Atk\nMax Crit",
 								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
 							}
-						}
-					},
-					{
-						"cookie-name": "Menthol",
-						"builds": {
-							"tart": "cooldown",
-							"toppings": [
-								"atk",
-								"atk",
-								"atk",
-								"atk",
-								"cooldown"
-							],
-							"beascuit": [
-								"Water Dmg",
-								"Water Dmg",
-								"Water Dmg",
-								"Water Dmg"
-							],
-							"description": "18.7% Cooldown\nOR 19.2% Cooldown\n11.6%+ Atk Spd\nMax Atk",
-							"stats-priority": "Cooldown ⇨ Atk Spd ⇨ Atk"
-						}
-					},
-					{
-						"cookie-name": "Cream Ferret",
-						"builds": {
-							"tart": "cooldown",
-							"toppings": [
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Cooldown",
-								"Cooldown",
-								"Cooldown"
-							],
-							"description": "54% Cooldown\n(2 second start)\nMax Atk\nMax Crit",
-							"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
 						}
 					}
 				],
@@ -395,43 +343,47 @@
 					{
 						"cookie-name": "Marshmallow Bunny",
 						"builds": {
-							"tart": "cooldown",
-							"toppings": [
-								"amp buff",
-								"amp buff",
-								"cooldown",
-								"cooldown",
-								"cooldown"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Cooldown",
-								"Cooldown",
-								"Cooldown"
-							],
-							"description": "50.2-50.4 Cooldown\n17%+ Amp Buff\nMax Atk/Crit",
-							"stats-priority": "Cooldown ⇨ Amp Buff ⇨ Atk/Crit"
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"amp buff",
+									"amp buff",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "50.2-50.4 Cooldown\n17%+ Amp Buff\nMax Atk/Crit",
+								"stats-priority": "Cooldown ⇨ Amp Buff ⇨ Atk/Crit"
+							}
 						}
 					},
 					{
 						"cookie-name": "Cream Ferret",
 						"builds": {
-							"tart": "cooldown",
-							"toppings": [
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Cooldown",
-								"Cooldown",
-								"Cooldown"
-							],
-							"description": "58.8% Cooldown\nMax Atk\nMax Crit",
-							"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "58.8% Cooldown\nMax Atk\nMax Crit",
+								"stats-priority": "Cooldown ⇨ Atk ⇨ Crit"
+							}
 						}
 					}
 				],
@@ -742,43 +694,47 @@
 					{
 						"cookie-name": "Black Sapphire",
 						"builds": {
-							"tart": "atk",
-							"toppings": [
-								"crit",
-								"crit",
-								"crit",
-								"crit",
-								"crit"
-							],
-							"beascuit": [
-								"Poison Dmg",
-								"Poison Dmg",
-								"Poison Dmg",
-								"Poison Dmg"
-							],
-							"description": "7.6%+ (8% Rec)\nMax Crit\nMax Atk",
-							"stats-priority": "Cooldown ⇨ Crit ⇨ Atk"
+							"standard": {
+								"tart": "atk",
+								"toppings": [
+									"crit",
+									"crit",
+									"crit",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Poison Dmg",
+									"Poison Dmg",
+									"Poison Dmg",
+									"Poison Dmg"
+								],
+								"description": "7.6%+ (8% Rec)\nMax Crit\nMax Atk",
+								"stats-priority": "Cooldown ⇨ Crit ⇨ Atk"
+							}
 						}
 					},
 					{
 						"cookie-name": "Candy Apple",
 						"builds": {
-							"tart": "dmg res",
-							"toppings": [
-								"crit",
-								"crit",
-								"crit",
-								"crit",
-								"crit"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Dmg Res",
-								"Dmg Res",
-								"Dmg Res"
-							],
-							"description": "14-15% Cooldown\nMax Dmg Res (50%~)\nMax Crit",
-							"stats-priority": "Dmg Res ⇨ Cooldown ⇨ Crit"
+							"standard": {
+								"tart": "dmg res",
+								"toppings": [
+									"crit",
+									"crit",
+									"crit",
+									"crit",
+									"crit"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Dmg Res",
+									"Dmg Res",
+									"Dmg Res"
+								],
+								"description": "14-15% Cooldown\nMax Dmg Res (50%~)\nMax Crit",
+								"stats-priority": "Dmg Res ⇨ Cooldown ⇨ Crit"
+							}
 						}
 					}
 				],
@@ -946,43 +902,47 @@
 					{
 						"cookie-name": "Star Coral",
 						"builds": {
-							"tart": "cooldown",
-							"toppings": [
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown",
-								"cooldown"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Cooldown",
-								"Cooldown",
-								"Cooldown"
-							],
-							"description": "55.5-55.7 cooldown\nNO Atk Spd\nMax Atk/Crit",
-							"stats-priority": "Cooldown ⇨ Atk = Crit"
+							"standard": {
+								"tart": "cooldown",
+								"toppings": [
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "55.5-55.7 cooldown\nNO Atk Spd\nMax Atk/Crit",
+								"stats-priority": "Cooldown ⇨ Atk = Crit"
+							}
 						}
 					},
 					{
 						"cookie-name": "Cream Ferret",
 						"builds": {
-							"tart": "atk",
-							"toppings": [
-								"atk",
-								"atk",
-								"cooldown",
-								"cooldown",
-								"cooldown"
-							],
-							"beascuit": [
-								"Cooldown",
-								"Cooldown",
-								"Cooldown",
-								"Cooldown"
-							],
-							"description": "Cooldown depends on your Mint Cooldown, please see table\nMax Atk/ Crit\nNO ATK SPD",
-							"stats-priority": "Cooldown ⇨ Atk = Crit"
+							"standard": {
+								"tart": "atk",
+								"toppings": [
+									"atk",
+									"atk",
+									"cooldown",
+									"cooldown",
+									"cooldown"
+								],
+								"beascuit": [
+									"Cooldown",
+									"Cooldown",
+									"Cooldown",
+									"Cooldown"
+								],
+								"description": "Cooldown depends on your Mint Cooldown, please see table\nMax Atk/ Crit\nNO ATK SPD",
+								"stats-priority": "Cooldown ⇨ Atk = Crit"
+							}
 						}
 					}
 				],

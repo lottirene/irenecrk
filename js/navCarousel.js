@@ -35,7 +35,7 @@ async function initialiseCarousels() {
             });
         });
     } catch (error) {
-        console.error('Carousel init failed:', error);
+        console.error('Carousel initialisation failed:', error);
     }
 }
 

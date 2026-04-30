@@ -15,7 +15,14 @@
 					"Mystic Flour",
 					"Awakened White Lily",
 					"Fire Spirit",
-					"Sugar Swan"
+					"Millennial Tree",
+					"Sugar Swan",
+					"Twizzly Gummy",
+					"Linzer",
+					"Crème Brûlée",
+					"Rebel",
+					"Marshmallow Bunny",
+					"Cream Ferret"
 				]
 			},
 			{
@@ -24,41 +31,154 @@
 					"Awakened Golden Cheese",
 					"Awakened Dark Cacao",
 					"Awakened Pure Vanilla",
+					"Awakened Hollyberry",
 					"Stormbringer",
 					"Wind Archer",
-					"Doughael"
+					"Stormbringer",
+					"Doughael",
+					"Mint Choco",
+					"Mango",
+					"Financier",
+					"Space Doughnut",
+					"Black Lemonade",
+					"Star Coral"
 				]
 			},
 			{
 				"tier": "B",
 				"cookies": [
-					"Venom Dough"
+					"Moonlight",
+					"Venom Dough",
+					"Herb",
+					"Dark Choco",
+					"Snow Sugar",
+					"Sparkling",
+					"Cream Puff",
+					"Strawberry Crepe",
+					"Pastry",
+					"Caramel Arrow",
+					"Cream Unicorn",
+					"Prune Juice",
+					"Tarte Tatin",
+					"Rockstar",
+					"Burnt Cheese",
+					"Fettuccine",
+					"Peach Blossom",
+					"Pudding à la Mode",
+					"Candy Apple",
+					"Sugarfly",
+					"Grapefruit",
+					"Charcoal"
 				]
 			},
 			{
 				"tier": "C",
 				"cookies": [
-					"Elder Faerie"
+					"Elder Faerie",
+					"Camellia",
+					"Sherbet",
+					"Stardust",
+					"Vampire",
+					"Espresso",
+					"Milk",
+					"Madeleine",
+					"Rye",
+					"Latte",
+					"Black Raisin",
+					"Parfait",
+					"Raspberry",
+					"Wildberry",
+					"Crunchy Chip",
+					"Milky Way",
+					"Blueberry Pie",
+					"Kouign-Amann",
+					"Royal Margarine",
+					"Peppermint",
+					"Frilled Jellyfish",
+					"Mozzarella",
+					"Matcha",
+					"Silverbell",
+					"Mercurial Knight",
+					"Butter Roll",
+					"Street Urchin",
+					"Cloud Haetae",
+					"Nutmeg Tiger",
+					"Smoked Cheese",
+					"Choco Drizzle",
+					"Green Tea Mousse",
+					"Okchun",
+					"Black Sapphire",
+					"Black Forest",
+					"Wedding Cake",
+					"Pavlova",
+					"Jagae",
+					"Manju",
+					"Seltzer",
+					"Menthol",
+					"Salt Cellar",
+					"Pom-pom Dough"
 				]
 			},
 			{
 				"tier": "D",
 				"cookies": [
 					"Frost Queen",
-					"Sea Fairy"
+					"Sea Fairy",
+					"Pitaya",
+					"Crimson Coral",
+					"Clotted Cream",
+					"Poison Mushroom",
+					"Kumiho",
+					"Almond",
+					"Red Velvet",
+					"Sorbet Shark",
+					"Cherry Blossom",
+					"Captain Caviar",
+					"Pinecone"
 				]
 			},
 			{
 				"tier": "E",
 				"cookies": [
-					"Black Pearl"
+					"Black Pearl",
+					"Capsaicin",
+					"Oyster",
+					"Werewolf",
+					"Licorice",
+					"Lilac",
+					"Squid Ink",
+					"Moon Rabbit",
+					"Pumpkin Pie",
+					"Eclair",
+					"Tea Knight",
+					"Affogato",
+					"Candy Diver",
+					"Schwarzwälder",
+					"Macaron",
+					"Caramel Choux",
+					"Agar Agar",
+					"Cream Soda",
+					"Lemon",
+					"Orange",
+					"Lime"
 				]
 			},
 			{
 				"tier": "F",
 				"cookies": [
-					"Capsaicin",
-					"Oyster"
+					"Tiger Lily",
+					"Chili Pepper",
+					"Pomegranate",
+					"Purple Yam",
+					"Fig",
+					"Mala Sauce",
+					"Cotton",
+					"Cocoa",
+					"Carol",
+					"Prophet",
+					"Olive",
+					"Golden Osmanthus",
+					"Red Osmanthus"
 				]
 			}
 		]
@@ -106,8 +226,13 @@
 					"Sea Fairy",
 					"Menthol",
 					"Seltzer",
+					"Frilled Jellyfish",
 					"Prune Juice",
+					"Blueberry Pie",
+					"Cream Puff",
 					"Black Sapphire",
+					"Candy Apple",
+					"Linzer",
 					"Pom-pom Dough",
 					"Cream Ferret",
 					"Marshmallow Bunny"
@@ -118,7 +243,25 @@
 				"cookies": [
 					"Mint Choco",
 					"Star Coral",
-					"Crème Brûlée"
+					"Crème Brûlée",
+					"Wedding Cake",
+					"Black Forest",
+					"Twizzly Gummy",
+					"Pudding à la Mode"
+				]
+			},
+			{
+				"tier": "B",
+				"cookies": [
+					"Dark Choco",
+					"Matcha",
+					"Cream Soda"
+				]
+			},
+			{
+				"tier": "C",
+				"cookies": [
+					"Rebel"
 				]
 			}
 		]
@@ -149,6 +292,8 @@
 					"Awakened White Lily",
 					"Space Doughnut",
 					"Dark Choco",
+					"Mango",
+					"Venom Dough",
 					"Cream Ferret"
 				]
 			}

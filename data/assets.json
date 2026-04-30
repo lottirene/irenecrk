@@ -68,5 +68,19 @@
             "name": "dmg res",
             "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/88/Topping_tart_almond_3.png/revision/latest/"
         }
+    ],
+    "magic-candies": [
+        {
+            "name": "Espresso's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/3c/Espresso_mc_lv3.png/revision/latest?cb=20220707162522"
+        },
+        {
+            "name": "Purple Yam's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1a/Purple_yam_mc_lv3.png/revision/latest?cb=20220707162524"
+        },
+        {
+            "name": "Vampire's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/35/Vampire_mc_lv3.png/revision/latest?cb=20220707162527"
+        }
     ]
 }
