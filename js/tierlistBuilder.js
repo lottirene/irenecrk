@@ -62,14 +62,14 @@ async function initialiseTierlist() {
 
 		// mapping cookies, treasures to be able to insert them into the tierlist
 		const cookieMap = new Map(
-			allCookies.map((c) => {
-				return [c['cookie-name'], { src: c['icon-src'] }];
+			allCookies.map((cookies) => {
+				return [cookies['cookie-name'], { src: cookies['icon-src'] }];
 			})
 		);
 
 		const treasureMap = new Map(
-			(allAssets.treasures || []).map((t) => {
-				return [t.name, { src: t['image-src'] }];
+			(allAssets.treasures || []).map((treasures) => {
+				return [treasures.name, { src: treasures['image-src'] }];
 			})
 		);
 
