@@ -184,35 +184,6 @@
 		]
 	},
 	{
-		"id": "arena",
-		"title": "Arena Tier List",
-		"item-type": "cookies",
-		"tiers": [
-			{
-				"tier": "S",
-				"cookies": [
-					"Dark Enchantress",
-					"Awakened White Lily",
-					"Millennial Tree",
-					"Sugar Swan"
-				]
-			},
-			{
-				"tier": "A",
-				"cookies": [
-					"Shadow Milk",
-					"Venom Dough"
-				]
-			},
-			{
-				"tier": "B",
-				"cookies": [
-					"Burning Spice"
-				]
-			}
-		]
-	},
-	{
 		"id": "guild",
 		"title": "Guild Tier List",
 		"item-type": "cookies",
