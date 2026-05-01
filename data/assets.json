@@ -19,6 +19,154 @@
         {
             "name": "Crimson Whistle",
             "image-src": "/assets/imgs/crimson-whistle.png"
+        },
+        {
+            "name": "Coin Purse",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/cc/Treasure_cheesebirds_coin_purse_bg.png/revision/latest?cb=20230809013342"
+        },
+        {
+            "name": "Gatekeeper Ghost's Horn",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/74/Treasure_gatekeeper_ghosts_horn_bg.png/revision/latest?cb=20230809013351"
+        },
+        {
+            "name": "Trophy Safe",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f2/Treasure_ginkgoblins_trophy_safe_bg.png/revision/latest?cb=20230809013402"
+        },
+        {
+            "name": "Common Watch",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0b/Treasure_squishy_jelly_watch_bg.png/revision/latest?cb=20230809013437"
+        },
+        {
+            "name": "Bear Jelly's Lollipop",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a4/Treasure_bear_jellys_lollipop_bg.png/revision/latest?cb=20230809013717"
+        },
+        {
+            "name": "Rare Scroll",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d8/Treasure_disciples_magic_scroll_bg.png/revision/latest?cb=20230809022708"
+        },
+        {
+            "name": "Echo of the Hurricane's Song",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/95/Treasure_echo_of_the_hurricane%27s_song_bg.png/revision/latest?cb=20230809024526"
+        },
+        {
+            "name": "Grim-looking Scythe",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/60/Treasure_grim-looking_scythe_bg.png/revision/latest?cb=20230809013800"
+        },
+        {
+            "name": "Miraculous Ghost Ice Cream",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/88/Treasure_miraculous_ghost_ice_cream_bg.png/revision/latest?cb=20230809013816"
+        },
+        {
+            "name": "Pilgrim's Slingshot",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/68/Treasure_pilgrims_slingshot_bg.png/revision/latest?cb=20230809013926"
+        },
+        {
+            "name": "Paper Charm",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/32/Treasure_priestess_cookies_paper_charm_bg.png/revision/latest?cb=20230809013936"
+        },
+        {
+            "name": "Mystical Silver Fork",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/69/Treasure_mystical_silver_fork_bg.png/revision/latest?cb=20250529002853"
+        },
+        {
+            "name": "Sacred Pomegranate Branch",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/96/Treasure_sacred_pomegranate_branch_bg.png/revision/latest?cb=20230809014308"
+        },
+        {
+            "name": "Pin Cushion",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/86/Treasure_seamstress_pin_cushion_bg.png/revision/latest?cb=20230809024710"
+        },
+        {
+            "name": "Hollyberry Necklace",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Treasure_hollyberrian_royal_necklace_bg.png/revision/latest?cb=20230809030824"
+        },
+        {
+            "name": "Electric Scythe",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/7a/Treasure_grim-looking_electrifying_scythe_bg.png/revision/latest?cb=20240424140835"
+        },
+        {
+            "name": "Great Sage's Gem",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6e/Treasure_great_sage%27s_gem_bg.png/revision/latest?cb=20250529003102"
+        },
+        {
+            "name": "Monocle",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c4/Treasure_explorer%27s_monocle_bg.png/revision/latest?cb=20231006192850"
+        },
+        {
+            "name": "Torch",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/8a/Treasure_elder_pilgrims_torch_bg.png/revision/latest?cb=20230809014205"
+        },
+        {
+            "name": "Flamingo Tube",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/02/Treasure_durianeers_squeaky_flamingo_tube_bg.png/revision/latest?cb=20230809024843"
+        },
+        {
+            "name": "Divine Honey Cream Crown",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/22/Treasure_divine_honey_cream_crown_bg.png/revision/latest?cb=20230809031232"
+        },
+        {
+            "name": "Catacombs Candle",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/25/Treasure_cursed_catacombs_candle.png/revision/latest?cb=20250924204113"
+        },
+        {
+            "name": "Cape of the Vanquisher",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d2/Treasure_cape_of_the_vanquisher_bg.png/revision/latest?cb=20240903054939"
+        },
+        {
+            "name": "Bookseller's Monocle",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/b/b8/Treasure_booksellers_monocle_bg.png/revision/latest?cb=20230809014153"
+        },
+        {
+            "name": "Blind Healer's Staff",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9c/Treasure_blind_healers_staff_bg.png/revision/latest?cb=20230809025014"
+        },
+        {
+            "name": "Mysterious Jewelry Box",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/94/Treasure_mysterious_jewelry_box_bg.png/revision/latest?cb=20250529002911"
+        },
+        {
+            "name": "Miraculous Natural Remedy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/49/Treasure_miraculous_natural_remedy_bg.png/revision/latest?cb=20230809030733"
+        },
+        {
+            "name": "Milk Tribe's Frozen Torch",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/0f/Treasure_milk_tribes_frozen_torch_bg.png/revision/latest?cb=20230809025806"
+        },
+        {
+            "name": "Jelly Worm's Sticky Goo",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e8/Treasure_jelly_worms_sticky_goo_bg.png/revision/latest?cb=20230809014220"
+        },
+        {
+            "name": "Insignia of the Indomitable Knights",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/4a/Treasure_insignia_of_the_indomitable_knights_bg.png/revision/latest?cb=20230809022342"
+        },
+        {
+            "name": "Vial of Raging Dunes",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9c/Treasure_vial_of_raging_dunes_bg.png/revision/latest?cb=20231006192850"
+        },
+        {
+            "name": "Unyielding Berry Necklace",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/92/Treasure_unyielding_berry_necklace.png/revision/latest?cb=20250924204114"
+        },
+        {
+            "name": "Twinkling Starlight Crown",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/99/Treasure_twinkling_starlight_crown_bg.png/revision/latest?cb=20240903055017"
+        },
+        {
+            "name": "Thunder God's Paper Charm",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/60/Treasure_thunder_god%27s_paper_charm_bg.png/revision/latest?cb=20240424140845"
+        },
+        {
+            "name": "The Order's Sacred Fork",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d5/Treasure_the_orders_sacred_fork_bg.png/revision/latest?cb=20230809031221"
+        },
+        {
+            "name": "Sugar Swan's Shining Feather",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6d/Treasure_sugar_swans_shining_feather_bg.png/revision/latest?cb=20230809014248"
+        },
+        {
+            "name": "Subtle Fragrant Remedy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/10/Treasure_subtle_fragrant_remedy_bg.png/revision/latest?cb=20250529003255"
         }
     ],
     "toppings": [
@@ -81,6 +229,142 @@
         {
             "name": "Vampire's Magic Candy",
             "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/3/35/Vampire_mc_lv3.png/revision/latest?cb=20220707162527"
+        },
+        {
+            "name": "Milk's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/63/Milk_mc_lv3.png/revision/latest?cb=20220811131706"
+        },
+        {
+            "name": "Rye's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5d/Rye_mc_lv3.png/revision/latest?cb=20220811131710"
+        },
+        {
+            "name": "Squid Ink's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5e/Squid_ink_mc_lv3.png/revision/latest?cb=20230621190529"
+        },
+        {
+            "name": "Werewolf's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/01/Werewolf_mc_lv3.png/revision/latest?cb=20221111174023"
+        },
+        {
+            "name": "Licorice's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6b/Licorice_mc_lv3.png/revision/latest?cb=20221215203326"
+        },
+        {
+            "name": "Cream Puff's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1a/Cream_puff_mc_lv3.png/revision/latest?cb=20230214023252"
+        },
+        {
+            "name": "Mala Sauce's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/8/83/Mala_sauce_mc_lv3.png/revision/latest?cb=20230528083155"
+        },
+        {
+            "name": "Madeleine's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/27/Madeleine_mc_lv3.png/revision/latest?cb=20230528083020"
+        },
+        {
+            "name": "Latte's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/62/Latte_mc_lv3.png/revision/latest?cb=20230528083018"
+        },
+        {
+            "name": "Tea Knight's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/2/2a/Tea_knight_mc_lv3.png/revision/latest?cb=20230621181439"
+        },
+        {
+            "name": "Wildberry's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Wildberry_mc_lv3.png/revision/latest?cb=20231114193013"
+        },
+        {
+            "name": "Mango's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/4/47/Mango_mc_lv3.png/revision/latest?cb=20230722231149"
+        },
+        {
+            "name": "Parfait's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/5f/Parfait_mc_lv3.png/revision/latest?cb=20230722231116"
+        },
+        {
+            "name": "Sorbet Shark's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/df/Sorbet_shark_mc_lv3.png/revision/latest?cb=20230908062805"
+        },
+        {
+            "name": "Black Raisin's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/9a/Black_raisin_mc_lv3.png/revision/latest?cb=20231019170218"
+        },
+        {
+            "name": "Snow Sugar's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/7/77/Snow_sugar_mc_lv3.png/revision/latest?cb=20231123004909"
+        },
+        {
+            "name": "Pinecone's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/5/59/Pinecone_mc_lv3.png/revision/latest?cb=20240104192137"
+        },
+        {
+            "name": "Financier's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/0/02/Financier_mc_lv3.png/revision/latest?cb=20240104192134"
+        },
+        {
+            "name": "Cream Unicorn's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c0/Cream_unicorn_mc_lv3.png/revision/latest?cb=20240104192132"
+        },
+        {
+            "name": "Captain Caviar's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d8/Captain_caviar_mc_lv3.png/revision/latest?cb=20240104192130"
+        },
+        {
+            "name": "Strawberry Crepe's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/e/e5/Strawberry_crepe_mc_lv3.png/revision/latest?cb=20240409153004"
+        },
+        {
+            "name": "Blueberry Pie's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1f/Blueberry_pie_mc_lv3.png/revision/latest?cb=20240508164354"
+        },
+        {
+            "name": "Twizzly Gummy's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a8/Twizzly_gummy_mc_lv3.png/revision/latest?cb=20240508164356"
+        },
+        {
+            "name": "Caramel Arrow's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/66/Caramel_arrow_mc_lv3.png/revision/latest?cb=20240605153345"
+        },
+        {
+            "name": "Dark Choco's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/98/Dark_choco_mc_lv3.png/revision/latest?cb=20240628165218"
+        },
+        {
+            "name": "Mint Choco's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/6d/Mint_choco_mc_lv3.png/revision/latest?cb=20240911035114"
+        },
+        {
+            "name": "Pastry's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/a/a5/Pastry_mc_lv3.png/revision/latest?cb=20240903231520"
+        },
+        {
+            "name": "Peppermint's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/f8/Peppermint_mc_lv3.png/revision/latest?cb=20241016052510"
+        },
+        {
+            "name": "Frilled Jellyfish's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/9/92/Frilled_jellyfish_mc_lv3.png/revision/latest?cb=20241106174758"
+        },
+        {
+            "name": "Sparkling's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/f/fe/Sparkling_mc_lv3.png/revision/latest?cb=20250212182103"
+        },
+        {
+            "name": "Kouign-Amann's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/c/c1/Kouign-amann_mc_lv3.png/revision/latest?cb=20250212182100"
+        },
+        {
+            "name": "Raspberry's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/6/64/Raspberry_mc_lv3.png/revision/latest?cb=20250604153101"
+        },
+        {
+            "name": "Silverbell's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/d/d3/Silverbell_mc_lv3.png/revision/latest?cb=20251125230351"
+        },
+        {
+            "name": "Green Tea Mousse's Magic Candy",
+            "image-src": "https://static.wikia.nocookie.net/cookierunkingdom/images/1/1a/Green_tea_mousse_mc_lv3.png/revision/latest?cb=20251022194825"
         }
     ]
 }

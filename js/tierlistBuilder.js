@@ -7,7 +7,7 @@ const tierDataFiles = {
 
 // render the rows of the tierlist
 function renderTierlistRow(tierEntry, itemMap, cssClass) {
-	const icons = (tierEntry.items || tierEntry.cookies || tierEntry.treasures || [])
+	const icons = (tierEntry.items || tierEntry.cookies || tierEntry.treasures || tierEntry.magicCandies || [])
 		.map((itemName) => {
 			const item = itemMap.get(itemName);
 			if (!item) return '';
@@ -73,9 +73,16 @@ async function initialiseTierlist() {
 			})
 		);
 
+		const magicCandiesMap = new Map(
+  			(allAssets['magic-candies'] || []).map((magicCandy) => {
+   				return [magicCandy.name, { src: magicCandy['image-src'] }];
+  			})
+		);
+
 		const mapByType = {
 			cookies: { map: cookieMap, cssClass: 'tier-cookie' },
-			treasures: { map: treasureMap, cssClass: 'tier-cookie' }
+			treasures: { map: treasureMap, cssClass: 'tier-cookie' },
+			magicCandies: { map: magicCandiesMap, cssClass: 'tier-cookie'}
 		};
 
 		document.querySelectorAll('[data-tier-list-id]').forEach((host) => {

@@ -310,7 +310,146 @@
 					"Robes",
 					"Watch",
 					"Crimson Whistle",
-					"Scroll"
+					"Scroll",
+					"Whistle"
+				]
+			},
+			{
+				"tier": "A",
+				"treasures": [
+					"Grim-looking Scythe",
+					"Common Watch",
+					"Rare Scroll",
+					"Insignia of the Indomitable Knights",
+					"Mysterious Jewelry Box",
+					"Unyielding Berry Necklace",
+					"Sugar Swan's Shining Feather",
+					"Catacombs Candle",
+					"Flamingo Tube",
+					"Monocle",
+					"Subtle Fragrant Remedy",
+					"Twinkling Starlight Crown"
+				]
+			},
+			{
+				"tier": "B",
+				"treasures": [
+					"Paper Charm",
+					"Electric Scythe",
+					"Pin Cushion",
+					"Hollyberrian Royal Necklace",
+					"Great Sage's Gem",
+					"Torch",
+					"Miraculous Natural Remedy",
+					"Mystical Silver Fork",
+					"Vial of Raging Dunes"
+				]
+			},
+			{
+				"tier": "C",
+				"treasures": [
+					"Pilgrim's Slingshot",
+					"Cape of the Vanquisher",
+					"The Order's Sacred Fork",
+					"Thunder God's Paper Charm"
+				]
+			},
+			{
+				"tier": "D",
+				"treasures": [
+					"Blind Healer's Staff",
+					"Bookseller's Monocle",
+					"Divine Honey Cream Crown",
+					"Jelly Worm's Sticky Goo",
+					"Milk Tribe's Frozen Torch",
+					"Sacred Pomegranate Branch"
+				]
+			},
+			{
+				"tier": "E",
+				"treasures": [
+					"Bear Jelly's Lollipop",
+					"Echo of the Hurricane's Song",
+					"Miraculous Ghost Ice Cream"
+				]
+			},
+			{
+				"tier": "F",
+				"treasures": [
+					"Coin Purse",
+					"Trophy Safe",
+					"Gatekeeper Ghost's Horn"
+				]
+			}
+		]
+	},
+	{
+		"id": "magic-candies",
+		"title": "Magic Candy Tier List",
+		"item-type": "magicCandies",
+		"tiers": [
+			{
+				"tier": "S",
+				"magicCandies": [
+					"Twizzly Gummy's Magic Candy",
+					"Blueberry Pie's Magic Candy",
+					"Cream Puff's Magic Candy",
+					"Frilled Jellyfish's Magic Candy",
+					"Mango's Magic Candy"
+				]
+			},
+			{
+				"tier": "A",
+				"magicCandies": [
+					"Financier's Magic Candy",
+					"Wildberry's Magic Candy",
+					"Parfait's Magic Candy",
+					"Cream Unicorn's Magic Candy",
+					"Dark Choco's Magic Candy",
+					"Pastry's Magic Candy"
+				]
+			},
+			{
+				"tier": "B",
+				"magicCandies": [
+					"Espresso's Magic Candy",
+					"Vampire's Magic Candy",
+					"Raspberry's Magic Candy",
+					"Silverbell's Magic Candy",
+					"Green Tea Mousse's Magic Candy",
+					"Latte's Magic Candy",
+					"Kouign-Amann's Magic Candy",
+					"Sparkling's Magic Candy",
+					"Sorbet Shark's Magic Candy"
+				]
+			},
+			{
+				"tier": "C",
+				"magicCandies": [
+					"Rye's Magic Candy",
+					"Mint Choco's Magic Candy",
+					"Madeleine's Magic Candy",
+					"Peppermint's Magic Candy",
+					"Captain Caviar's Magic Candy",
+					"Mala Sauce's Magic Candy",
+					"Black Raisin's Magic Candy",
+					"Snow Sugar's Magic Candy"
+				]
+			},
+			{
+				"tier": "D",
+				"magicCandies": [
+					"Purple Yam's Magic Candy",
+					"Milk's Magic Candy",
+					"Tea Knight's Magic Candy",
+					"Licorice's Magic Candy"
+				]
+			},
+			{
+				"tier": "E",
+				"magicCandies": [
+					"Squid Ink's Magic Candy",
+					"Werewolf's Magic Candy"
 				]
 			}
 		]

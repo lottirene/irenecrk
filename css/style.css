@@ -902,7 +902,7 @@ footer a:last-child {
 /* tierlist styles */
 
 [data-tier-list-id] {
-    width: min(1500px, 95%);
+    width: min(1500px, 85%);
     margin: 10px auto;
 }
 
@@ -991,7 +991,7 @@ footer a:last-child {
 }
 
 .tier-cookie {
-    width: clamp(70px, 10vw, 150px);
+    width: clamp(70px, 7vw, 150px);
     height: auto;
 }
 
