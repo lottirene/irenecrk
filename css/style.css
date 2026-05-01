@@ -1202,7 +1202,6 @@ footer a:last-child {
         padding: 7px 10px;
         border-color: var(--divider);
         opacity: 1;
-        pointer-events: auto;
     }
 
     .search-results {
