@@ -28,17 +28,41 @@ async function initialiseCarousels() {
             </article>
             `).join('');
 
-            const step = () => (track.querySelector('.carousel-card')?.offsetWidth || 0) + 10;
+            // logic to make the carousel loop back to the start
+            const cardElements = () => track.querySelectorAll('.carousel-card');
+            let currentPos = 0;
+
+            // sorts the positioning of the scroll
+            const scrollPos = () => {
+                const maxScroll = track.scrollWidth - track.clientWidth;
+                const rawPos = Array.from(cardElements()).map((card) => 
+                Math.min(card.offsetLeft - track.offsetLeft, maxScroll));
+                return rawPos.filter((pos, i) => i === 0 || Math.abs(pos - rawPos[i - 1]) > 1);
+            };
+
+            // actually does the scrolling positioning
+            const scrollToPos = (index) => {
+                const pos = scrollPos();
+                if (!pos.length) return;
+                track.scrollTo({ left: pos[index], behavior: 'smooth'});
+            };
 
             prevButton.addEventListener('click', () => {
-                track.scrollBy({ left: -step(), behavior: 'smooth' });
+                const pos = scrollPos();
+                if (!pos.length) return;
+                currentPos = (currentPos - 1 + pos.length) % pos.length;
+                scrollToPos(currentPos);
             });
 
             nextButton.addEventListener('click', () => {
-                track.scrollBy({ left: step(), behavior: 'smooth' });
+                const pos = scrollPos();
+                if (!pos.length) return;
+                currentPos = (currentPos + 1) % pos.length;
+                scrollToPos(currentPos);
             });
         });
-    } catch (error) {
+    } 
+    catch (error) {
         console.error('The carousel failed to build! ', error);
     }
 }

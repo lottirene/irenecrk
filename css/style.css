@@ -366,6 +366,7 @@ h2 {
     overflow-x: auto;
     scroll-behavior: smooth;
     scrollbar-width: none;
+    scroll-snap-type: x mandatory;
 }
 
 .carousel-card {
@@ -378,6 +379,7 @@ h2 {
     padding: 1%;
     box-shadow: 0 5px 5px var(--shadow);
     text-align: center;
+    scroll-snap-align: start;
 }
 
 .carousel-viewport {
