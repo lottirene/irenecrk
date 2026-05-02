@@ -24,9 +24,11 @@ function renderCookieBuild(cookieEntry, cookieMap) {
     const tartSrc = tartMap.get(tartType);
     const toppingTypes = buildData.toppings.slice(0, 5)
 
+    // building the "star-shaped" 5 topping look to go on top of the tart! :D
     const toppingsHTML = Array.from({ length: 5 }, (_, index) =>
         `<img src="${toppingMap.get(toppingTypes[index])}" alt="Topping" class="topping topping-${index + 1}">`).join('');
 
+    // putting the build together, name, tart, topping map, beascuit, and mc if applicable!
     return `
     <section class="cookie-build">
         <h3>${cookieName}</h3>
@@ -65,6 +67,7 @@ function renderTable(table) {
     const bodyRows = rows.map((row) =>
         Array.from({ length: maxColumns }, (_, i) => row[i]));
 
+    // building the table to include the amount of rows and columns which exist in the json
     return `
     <section class="build-table">
         <h3>${table.title}</h3>
@@ -91,6 +94,7 @@ async function initialiseTeamBuild() {
     const bossName = page.dataset.bossName;
     const teamName = page.dataset.teamName;
 
+    // fetching the data, and loading it in based on which boss it is under / which team is is under
     try {
         const [buildsResponse, cookiesResponse, assetsResponse] = await Promise.all([
             fetch(buildDataFiles.builds),
@@ -113,6 +117,7 @@ async function initialiseTeamBuild() {
             throw new Error(`Boss "${bossName}" was not found in data/builds.json`);
         }
 
+        // this is not really needed right now, because every team is standard. but in case there is more than 1 team per boss in future!
         const selectedTeam = findByField(selectedBoss.teams, 'team-name', teamName);
         if (!selectedTeam) {
             throw new Error(`Team "${teamName}" was not found for boss "${bossName}"`);
@@ -136,14 +141,10 @@ async function initialiseTeamBuild() {
         const treasuresMap = new Map((allAssets.treasures).map((item) => [item.name, item['image-src']]));
         const teamTreasures = Object.values(selectedTeam.treasures);
 
-        if (treasuresContainer) {
-            treasuresContainer.innerHTML = teamTreasures.map((name) => `<img src="${treasuresMap.get(name)}" alt="${name}" class="treasure">`).join('');
-        }
+        // putting in the treasures and the builds
+        treasuresContainer.innerHTML = teamTreasures.map((name) => `<img src="${treasuresMap.get(name)}" alt="${name}" class="treasure">`).join('');
 
-        if (buildContainer) {
-            buildContainer.innerHTML = teamCookies
-                .map((teamCookie) => renderCookieBuild(teamCookie, cookieMap)).join('');
-        }
+        buildContainer.innerHTML = teamCookies.map((teamCookie) => renderCookieBuild(teamCookie, cookieMap)).join('');
 
         // image grid gallery for the cookie stats!
         const statsGrid = page.querySelector('[data-stats-images]');
@@ -153,6 +154,7 @@ async function initialiseTeamBuild() {
             <figcaption>${caption}</figcaption>
         </figure>`).join('');
 
+        // making the popup function for the pictures so they enlarge when you click them
         const popup = document.getElementById('popup');
         const popupImg = document.getElementById('popupImg');
         const popupCaption = document.getElementById('popupCaption');
@@ -214,4 +216,5 @@ async function initialiseTeamBuild() {
     }
 }
 
+// actually running the function >:)
 initialiseTeamBuild();

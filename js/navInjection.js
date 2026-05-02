@@ -1,10 +1,12 @@
 // nav injection for every page!
+// imports the nav.html so it's more consistent on every page in case changes are made in future!
 const navElement = document.getElementById('navInjection');
 let darkmode = localStorage.getItem('darkmode');
 
+// adding / removing the darkmode class from css if you press the sun/moon button
 const enableDarkMode = () => {
     document.body.classList.add('darkmode');
-    localStorage.setItem('darkmode', 'active');
+    localStorage.setItem('darkmode', 'active'); // adding to local storage so the website remembers your choice!!!
 };
 
 const disableDarkmode = () => {
@@ -57,6 +59,7 @@ async function initialiseSearch() {
     const searchContainer = document.getElementById('searchContainer');
     const searchIconButton = document.getElementById('searchIconButton');
 
+    // making the search results pop up when you click on the search bar, but disappear when you press elsewhere
     searchIconButton.addEventListener('click', () => {
         searchContainer.classList.add('search-open');
         searchInput.focus();
@@ -81,7 +84,7 @@ async function initialiseSearch() {
 
     searchInput.addEventListener('input', () => {
         const query = searchInput.value.trim().toLowerCase();
-
+        // makes sure its at least 2 cause then you wont see loads of stuff if you just type 1 letter 
         if (query.length < 2) {
             searchResults.classList.remove('visible');
             return;
@@ -96,7 +99,7 @@ async function initialiseSearch() {
             <span class="search-result-title">${item.title}</span>
             <span class="search-result-meta">${item.description}</span>
         </a>`).join('')
-        : '<p class="search-empty">No matching results found!</p>';
+            : '<p class="search-empty">No matching results found!</p>';
         searchResults.classList.add('visible');
     });
 

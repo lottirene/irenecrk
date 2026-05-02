@@ -1,6 +1,7 @@
 // footer injection :>
 const footerElement = document.getElementById('footerInjection');
 
+// imports the footer.html so it's more consistent on every page in case changes are made in future!
 async function injectFooter() {
 	try {
 		const res = await fetch('/assets/footer.html');
